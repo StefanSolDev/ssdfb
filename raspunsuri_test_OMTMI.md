@@ -300,3 +300,150 @@
 | 8 | b) |
 
 **Toate răspunsurile au fost verificate în cursurile OMTMI Rev.01 din repository.**
+
+---
+---
+
+# Subiectul 2 - Varianta 3101VK01V03
+
+**Notă:** *Întrebările au răspuns multiplu. Fiecare răspuns corect la o întrebare este punctat cu 0.5p (18*0,5=9+1p.of.=10). Nu se acordă punctaje parțiale, se punctează doar răspunsurile complete. Timp de lucru 20 minute.*
+
+---
+
+## 1. După ce criterii pot fi clasificate asamblările filetate?
+
+**Răspunsuri corecte: a), c), d)**
+
+- ✅ **a) După rolul funcțional**
+- ❌ **b) După materialul șurubului** - INCORECT (nu este criteriu de clasificare menționat)
+- ✅ **c) După profilul filetului**
+- ✅ **d) După tipul execuției (precise, semi-precise, grosolane)**
+- ❌ **e) După forma piesei de bază** - INCORECT
+
+**Referință în curs: OMTMI - Curs 02 - Rev.01.pptx**
+> "Asamblările filetate pot fi clasificate după mai multe criterii:
+> 1. **după rolul funcțional**:...
+> 2. **după profilul filetului** (v. fig. 11 și tab. 1):...
+> 3. **după tipul execuției** (precise, semi precise sau grosolane)"
+
+---
+
+## 2. Ce se întâmplă cu partea interioară a niturii în timpul instalării unui nit orb?
+
+**Răspuns corect: b)**
+
+- ❌ **a) Se deformează elastic** - INCORECT (este deformare plastică permanentă)
+- ✅ **b) Se expandează pentru a asigura o fixare solidă**
+- ❌ **c) Se contractă pentru a reduce diametrul** - INCORECT
+- ❌ **d) Se răcește rapid pentru a întări materialul** - INCORECT
+- ❌ **e) Se solidifică prin sudare** - INCORECT
+
+**Referință în curs: OMTMI - Curs 02 - Rev.01.pptx**
+> "Procesul de instalare a unui **nit orb** implică inserarea unui cui în interiorul niturii, iar când acesta este tras, **partea interioară a niturii se expandează, asigurând o fixare solidă** între cele două suprafețe."
+
+---
+
+## 3. Care dintre următoarele sunt necesare pentru realizarea unei suduri?
+
+**Răspunsuri corecte: b), d)**
+
+- ❌ **a) Adâncirea pieselor pentru a se potrivi perfect** - INCORECT
+- ✅ **b) Aducerea în stare de topire sau plasticizare a suprafețelor ce urmează a fi sudate**
+- ❌ **c) Utilizarea de șuruburi pentru fixare** - INCORECT (aceasta este asamblare filetată)
+- ✅ **d) Compoziția chimică apropiată a materialelor ce urmează a fi sudate**
+- ❌ **e) Aplicarea unui tratament termic de întărire** - INCORECT (nu este necesar pentru realizarea sudurii)
+
+**Referință în curs: OMTMI - Curs 02 - Rev.01.pptx**
+> "Operația tehnologică prin care se asamblează nedemontabil două piese din același material sau materiale diferite dar **având compoziția chimică apropiată** poartă denumirea de sudare. Pentru a putea fi realizată, este necesară **aducerea în stare de topire sau cel puțin plasticizare a suprafețelor ce urmează a fi sudate**."
+
+---
+
+## 4. Care sunt diferențele dintre sudură și lipire?
+
+**Răspunsuri corecte: a), d)**
+
+- ✅ **a) În sudură, atât materialul de bază, cât și metalul de adaos se topesc**
+- ❌ **b) În lipire, metalul de bază se topește** - INCORECT (metalul de bază NU se topește în lipire)
+- ❌ **c) În sudură, materialul de adaos este mai ușor de topit decât materialul de bază** - INCORECT (aceasta este caracteristică lipirii)
+- ✅ **d) În lipire, metalul de bază nu se topește, iar metalul de adaos are un punct de topire mai scăzut**
+- ❌ **e) Rezistența mecanică a îmbinării prin lipire este mai mare decât cea a sudurilor** - INCORECT (este mai MICĂ)
+
+**Referință în curs: OMTMI - Curs 02 - Rev.01.pptx**
+> "[La lipire] legătura se realizează prin difuzia metalului de adaos - adus în stare lichidă, în structura metalului pieselor - aflat în stare solidă... dar **metalul de bază nu se topește**, metalul de adaos este diferit de cel de bază (**are punctul de topire mai scăzut**), nu se modifică structural materialul de bază, dar **rezistența mecanică este mai mică decât la suduri**."
+
+---
+
+## 5. În ce situații este mai avantajoasă electrofuziunea decât alte metode de îmbinare?
+
+**Răspunsuri corecte: a), c)**
+
+- ✅ **a) În zone greu accesibile**
+- ❌ **b) În cazul conductelor de mari dimensiuni care necesită flexibilitate în manevare** - INCORECT (electrofuziunea este bună pt dimensiuni mai mici)
+- ✅ **c) Atunci când este necesară o legătură omogenă și ermetică**
+- ❌ **d) În sisteme unde costurile reduse sunt mai importante decât calitatea îmbinării** - INCORECT (electrofuziunea este mai scumpă)
+
+**Referință în curs: OMTMI - Curs 02 - Rev.01.pptx**
+> "**Flexibilitate**: Electrofuziunea poate fi utilizată în **zone greu accesibile** sau unde nu există spațiu pentru manevrarea conductelor mari."
+> "**Calitate ridicată a îmbinării**: **legătură omogenă și ermetică**."
+> "**Costuri mai mari**: Aparatul de electrofuziune și fitingurile electrofuzibile sunt mai scumpe decât alte metode."
+
+---
+
+## 6. Ce este tehnologia Quick&Easy în legătură cu țevile PE-Xa?
+
+**Răspunsuri corecte: b), c)**
+
+- ❌ **a) O metodă complexă de îmbinare care necesită echipamente complexe și sofisticate** - INCORECT (este rapidă și simplă)
+- ✅ **b) O tehnologie unică de îmbinare care este rapidă și simplă**
+- ✅ **c) O metodă bazată pe utilizarea memoriei termice a țevilor**
+- ❌ **d) Un sistem care necesită metale grele pentru a asigura rezistența** - INCORECT
+
+**Referință în curs: OMTMI - Curs 03 - Rev.01.pptx**
+> "Datorită **memoriei termice**, aceste țevi permit utilizarea tehnologiei unice de îmbinare **Q&E (Quick and Easy)**, care este **rapidă și simplă**."
+
+---
+
+## 7. Care sunt dezavantajele metodei de sudare cap la cap?
+
+**Răspunsuri corecte: a), b), d)**
+
+- ✅ **a) Necesitatea unui echipament special pentru sudare**
+- ✅ **b) Dificultăți în utilizarea în spații înguste sau greu accesibile**
+- ❌ **c) Posibilitatea contaminării suprafețelor înainte de sudare** - Aceasta nu este un dezavantaj specific sudării cap la cap, ci o problemă generală
+- ✅ **d) Necesitatea unei pregătiri precise a aliniamentului și controlului temperaturii și presiunii**
+
+**Referință în curs: OMTMI - Curs 02 - Rev.01.pptx**
+> "**Limitări de spațiu**: Nu este adecvată pentru **spații înguste sau locuri greu accesibile**, unde manevrarea echipamentului și conductelor ar fi dificilă."
+> "**Pregătire precisă**: Calitatea îmbinării depinde mult de **precizia aliniamentului conductelor** și a **controlului temperaturii și presiunii**."
+
+---
+
+## 8. Cum se testează recipientele pentru hidrofor înainte de utilizare?
+
+**Răspunsuri corecte: a), d)**
+
+- ✅ **a) Prin verificarea presiunii la valori mai mari decât cele operaționale**
+- ❌ **b) Prin teste de rezistență mecanică** - Parțial corect, dar testele de presiune sunt principale
+- ❌ **c) Prin măsurarea conductivității electrice a rezervorului** - INCORECT
+- ✅ **d) Prin inspecții vizuale pentru defecte structurale**
+
+**Referință în curs: OMTMI - Curs 04 - Rev.01.pptx**
+> "**Recipientele sunt supuse testelor de presiune și rezistență**, fiind verificate la **presiuni mai mari decât cele operaționale** pentru a garanta siguranța utilizării lor în instalațiile de apă."
+> "Verificarea calității poate include **teste de presiune și inspecții vizuale** pentru a asigura integritatea structurală și etanșeitatea."
+
+---
+
+## Rezumat Răspunsuri Corecte - Subiectul 2 (Varianta 3101VK01V03)
+
+| Întrebare | Răspunsuri corecte |
+|-----------|-------------------|
+| 1 | a), c), d) |
+| 2 | b) |
+| 3 | b), d) |
+| 4 | a), d) |
+| 5 | a), c) |
+| 6 | b), c) |
+| 7 | a), b), d) |
+| 8 | a), d) |
+
+**Toate răspunsurile au fost verificate în cursurile OMTMI Rev.01 din repository.**
