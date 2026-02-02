@@ -447,3 +447,181 @@
 | 8 | a), d) |
 
 **Toate răspunsurile au fost verificate în cursurile OMTMI Rev.01 din repository.**
+
+---
+---
+
+# Subiectul 3 - Continuare Varianta 3101VK01V03 (Întrebările 9-18)
+
+---
+
+## 9. Care dintre următoarele este un avantaj al higrometrului mecanic?
+
+**Răspuns corect: a)**
+
+- ✅ **a) Funcționează fără necesar de energie electrică**
+- ❌ **b) Are o precizie mai mare decât cel electronic** - INCORECT (cel electronic are precizie mai mare)
+- ❌ **c) Este ideal pentru măsurători rapide în medii variabile** - INCORECT
+- ❌ **d) Poate detecta modificări foarte mici ale umidității** - INCORECT (electronic detectează mai bine)
+
+**Referință în curs: OMTMI - Curs 07 - Rev.01.pptx**
+> "**Higrometrul mecanic** (cu fir de păr sau material higroscopic) - Principiu de funcționare: Se bazează pe proprietatea unor materiale higroscopice de a-și modifica lungimea în funcție de umiditatea aerului."
+> "**Fără necesar de energie**: Este un dispozitiv complet mecanic."
+
+---
+
+## 10. Care este principiul de funcționare al unui regulator de presiune?
+
+**Răspuns corect: b)**
+
+- ❌ **a) Utilizează unde ultrasonice pentru a detecta variațiile presiunii** - INCORECT
+- ✅ **b) Folosește un element sensibil (membrană sau piston) și un arc pentru a controla deschiderea supapei**
+- ❌ **c) Se bazează pe inducția electromagnetică** - INCORECT
+- ❌ **d) Funcționează exclusiv prin acționare manuală** - INCORECT
+
+**Referință în curs: OMTMI - Curs 07 - Rev.01.pptx**
+> "Un regulator de presiune utilizează un **element sensibil (membrană, piston) și un arc de reglare**:
+> Când presiunea scade sub limita setată, arcul împinge membrana sau pistonul pentru a deschide mai mult supapa."
+
+---
+
+## 11. Care sunt avantajele utilizării detectoarelor de gaz?
+
+**Răspunsuri corecte: a), c), d)**
+
+- ✅ **a) Prevenirea intoxicărilor**
+- ❌ **b) Reducerea consumului de gaz** - INCORECT (nu este funcția detectoarelor)
+- ✅ **c) Prevenirea incendiilor și exploziilor**
+- ✅ **d) Posibilitatea închiderii automate a alimentării cu gaz**
+
+**Referință în curs: OMTMI - Curs 07 - Rev.01.pptx**
+> "**Prevenirea intoxicărilor și a incendiilor/exploziilor.**"
+> "Pot include funcții suplimentare, cum ar fi **închiderea automată a alimentării cu gaz**."
+
+---
+
+## 12. Cum funcționează un burghiu diamantat în timpul carotării?
+
+**Răspuns corect: a)**
+
+- ✅ **a) Taie materialul cu ajutorul rotației rapide și al particulelor diamantate**
+- ❌ **b) Utilizează o combinație între rotație și percuție** - INCORECT (carotarea diamantată NU folosește percuție)
+- ❌ **c) Folosește un mecanism de frezare pentru a desprinde materialul** - INCORECT
+- ❌ **d) Împinge materialul la o adâncire constantă fără rotație** - INCORECT
+- ❌ **e) Utilizează un sistem de ablație pentru îndepărtarea materialului** - INCORECT
+
+**Referință în curs: OMTMI - Curs 12 - Rev.01.pptx**
+> "**Carotele diamantate taie materialul cu ajutorul rotației rapide și al particulelor diamantate.**"
+> "Această metodă folosește burghie speciale, denumite carote diamantate, care au la marginea lor **particule de diamant sintetic**."
+
+---
+
+## 13. În ce tipuri de aplicații sunt utilizate ancorele chimice?
+
+**Răspunsuri corecte: a), c), d)**
+
+- ✅ **a) Fixarea consolelor**
+- ❌ **b) Instalarea unor elemente de decor pe pereți** - INCORECT (pentru decor se folosesc fixări mai simple)
+- ✅ **c) Montarea mașinilor industriale pe fundații de beton**
+- ✅ **d) Instalarea sistemelor de conducte sau cabluri**
+- ❌ **e) Fixarea plăcilor de gips-carton** - INCORECT (se folosesc dibluri speciale pentru gips-carton)
+
+**Referință în curs: OMTMI - Curs 12 - Rev.01.pptx**
+> "Aplicații [ale ancorelor chimice]:
+> **Fixarea consolelor**
+> **Montarea echipamentelor pe fundații de beton.**
+> **Instalarea sistemelor de conducte sau cabluri.**"
+
+---
+
+## 14. Care dintre următoarele coliere sunt utilizate pentru atenuarea vibrațiilor și zgomotului?
+
+**Răspuns corect: c)**
+
+- ❌ **a) Coliere simple** - INCORECT
+- ❌ **b) Coliere ajustabile** - INCORECT
+- ✅ **c) Coliere cu garnitură elastomerică**
+- ❌ **d) Coliere pentru conducte din PVC** - INCORECT
+
+**Referință în curs: OMTMI - Curs 12 - Rev.01.pptx**
+> "**Coliere cu garnitură elastomerică** (izolate fonic):
+> Prevăzute cu o garnitură din cauciuc sau material elastomeric pentru **atenuarea vibrațiilor și a zgomotului**."
+
+---
+
+## 15. Care este rolul suporților culisanți pentru conducte?
+
+**Răspuns corect: b)**
+
+- ❌ **a) Permite fixarea rigidă a conductelor pe suprafețe** - INCORECT (aceasta e funcția suporților ficși)
+- ✅ **b) Permite mișcarea conductelor din cauza dilatării termice**
+- ❌ **c) Preia greutatea conductelor pentru a preveni deteriorarea structurilor de susținere** - Parțial corect, dar nu e funcția principală a celor culisanți
+- ❌ **d) Previne vibrațiile produse de echipamentele asociate** - INCORECT (aceasta e funcția colierelor elastomerice)
+
+**Referință în curs: OMTMI - Curs 12 - Rev.01.pptx**
+> "Permisiunea dilatării: **Suporții culisanți permit mișcarea conductelor din cauza dilatării termice.**"
+
+---
+
+## 16. Care este principiul de bază al forajului orizontal prin percuție?
+
+**Răspuns corect: a)**
+
+- ✅ **a) Crearea unui tunel prin mișcări repetate de lovire**
+- ❌ **b) Crearea unui tunel prin rotație continuă** - INCORECT (aceasta e forajul dirijat)
+- ❌ **c) Crearea unui tunel prin foraj cu jet de apă** - INCORECT
+- ❌ **d) Excavația unui șanț pentru conducte** - INCORECT
+
+**Referință în curs: OMTMI - Curs 12 - Rev.01.pptx**
+> "Forajul orizontal prin percuție este o metodă utilizată pentru instalarea conductelor subterane... bazată pe utilizarea unui utilaj care **creează un tunel prin mișcări repetitive de lovire**."
+
+---
+
+## 17. Ce tip de energie utilizează racheta pneumatică în forajul orizontal prin percuție?
+
+**Răspuns corect: a)**
+
+- ✅ **a) Aer comprimat**
+- ❌ **b) Electricitate** - INCORECT
+- ❌ **c) Hidraulică** - INCORECT
+- ❌ **d) Energie solară** - INCORECT
+
+**Referință în curs: OMTMI - Curs 12 - Rev.01.pptx**
+> "Un utilaj numit **rachetă pneumatică** este introdus în sol."
+> "**Funcționează pe bază de aer comprimat.**"
+> "Se conectează la o **sursă de aer comprimat**."
+
+---
+
+## 18. Care sunt pașii implicați în instalarea conductei utilizând forajul orizontal prin percuție?
+
+**Răspunsuri corecte: a), b), c)**
+
+- ✅ **a) Racheta pneumatică creează tunelul**
+- ✅ **b) Conducta poate fi introdusă simultan cu avansul utilajului**
+- ✅ **c) Conducta poate fi instalată după finalizarea tunelului**
+- ❌ **d) Pământul dislocat este scos din tunel** - INCORECT (pământul este COMPACTAT în pereții tunelului, nu scos)
+- ❌ **e) Conducta se instalează prin acoperirea tunelului cu o structură specială** - INCORECT
+
+**Referință în curs: OMTMI - Curs 12 - Rev.01.pptx**
+> "**Conducta este introdusă fie simultan cu avansul utilajului, fie după ce tunelul este complet realizat.**"
+> "Materialul dislocat este **compactat în pereții tunelului**, eliminând necesitatea de a scoate pământul."
+
+---
+
+## Rezumat Răspunsuri Corecte - Subiectul 3 (Întrebările 9-18)
+
+| Întrebare | Răspunsuri corecte |
+|-----------|-------------------|
+| 9 | a) |
+| 10 | b) |
+| 11 | a), c), d) |
+| 12 | a) |
+| 13 | a), c), d) |
+| 14 | c) |
+| 15 | b) |
+| 16 | a) |
+| 17 | a) |
+| 18 | a), b), c) |
+
+**Toate răspunsurile au fost verificate în cursurile OMTMI Rev.01 din repository.**
