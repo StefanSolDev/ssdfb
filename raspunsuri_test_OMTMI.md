@@ -948,3 +948,188 @@
 | 8 | c) |
 
 **Toate răspunsurile au fost verificate în cursurile OMTMI Rev.01 din repository.**
+
+---
+---
+
+# Subiectul 6 - Altă Variantă (Întrebările 9-18)
+
+---
+
+## 9. Care dintre următoarele afirmații sunt adevărate despre materialele utilizate în structura conductelor de oțel preizolate?
+
+**Răspunsuri corecte: a), b), d)**
+
+- ✅ **a) Conducta interioară poate fi din oțel carbon**
+- ✅ **b) Izolația termică este realizată din spumă poliuretanică (PUR)**
+- ❌ **c) Stratul exterior de protecție este realizat din materiale plastice casante** - INCORECT (PE nu este casant)
+- ✅ **d) Stratul exterior poate fi din polietilenă (PE) sau tablă de oțel galvanizat**
+
+**Referință în curs: OMTMI - Curs 03 - Rev.01.pptx**
+> "Conductele de oțel preizolate constau din trei straturi principale:
+> Conducta interioară din oțel: Fabricată din **oțel carbon** (pentru apă caldă și abur) sau oțel inoxidabil...
+> Izolația termică: De obicei, realizată din **spumă poliuretanică (PUR)**...
+> Stratul exterior de protecție: Învelișul exterior, realizat din **polietilenă (PE) sau o carcasă de tablă din oțel galvanizat**."
+
+---
+
+## 10. Pentru ce tipuri de aplicații sunt potrivite conductele corugate din HDPE?
+
+**Răspunsuri corecte: a), b)**
+
+- ✅ **a) Aplicații subterane unde suportă greutatea solului**
+- ✅ **b) Sisteme de canalizare și drenaj**
+- ❌ **c) Transportul fluidelor chimice agresive** - INCORECT (HDPE corugat nu este principal pt fluide chimice)
+- ❌ **d) Instalații supraterane cu temperatură foarte ridicată a agentului termic** - INCORECT
+
+**Referință în curs: OMTMI - Curs 04 - Rev.01.pptx**
+> "Aplicații Tipice ale Conductelor Corugate din HDPE: **Sisteme de canalizare, Sisteme de drenaj**, Protecția cablurilor subterane."
+> "Rezistență mecanică ridicată: ... fiind ideale pentru **aplicații subterane unde suportă greutatea solului** și alte sarcini externe."
+
+---
+
+## 11. Care sunt etapele de fabricare ale unui recipient pentru hidrofor?
+
+**Răspunsuri corecte: a), b), d)**
+
+- ✅ **a) Selectarea materialelor**
+- ✅ **b) Formarea și sudarea carcasei**
+- ❌ **c) Testarea pentru izolație termică** - INCORECT (nu este etapă de fabricare hidrofor)
+- ✅ **d) Montarea și testarea membranei**
+
+**Referință în curs: OMTMI - Curs 04 - Rev.01.pptx**
+> "Fabricarea acestor recipiente implică mai multe etape:
+> - **Selectarea materialelor**
+> - **Formarea și sudarea carcasei**
+> - **Montarea și testarea membranei**
+> - Tratarea anticorozivă
+> - Testarea finală"
+
+---
+
+## 12. Ce tip de robinet este ideal pentru o închidere rapidă a fluxului de fluid?
+
+**Răspunsuri corecte: a), b)**
+
+- ✅ **a) Robinet cu bilă**
+- ✅ **b) Vana fluture**
+- ❌ **c) Supapă de siguranță** - INCORECT (este pentru eliberare presiune, nu închidere)
+- ❌ **d) Robinet cu diafragmă** - INCORECT (este pentru reglaj, nu închidere rapidă)
+
+**Referință în curs: OMTMI - Curs 06 - Rev.01.pptx**
+> "**Închidere rapidă**: **Robinet cu bilă sau vana fluture.**"
+
+---
+
+## 13. Ce este un regulator de presiune?
+
+**Răspuns corect: b)**
+
+- ❌ **a) Un dispozitiv pentru măsurarea presiunii** - INCORECT (aceasta este manometrul)
+- ✅ **b) Un dispozitiv care menține presiunea constantă a unui fluid**
+- ❌ **c) Un echipament care măsoară temperatura unui fluid** - INCORECT (aceasta este termometrul)
+- ❌ **d) Un mecanism de oprire a fluxului fluidului** - INCORECT (aceasta este robinetul)
+
+**Referință în curs: OMTMI - Curs 07 - Rev.01.pptx**
+> "**Regulatoarele de presiune sunt dispozitive care mențin presiunea unui fluid (gaz sau lichid) la o valoare constantă**, indiferent de variațiile presiunii de intrare sau de debitul fluidului."
+
+---
+
+## 14. Care dintre următoarele afirmații sunt corecte despre senzorii de monoxid de carbon?
+
+**Răspunsuri corecte: a), b), d)**
+
+- ✅ **a) Sunt folosiți pentru a preveni intoxicațiile cu CO**
+- ✅ **b) Utilizează tehnologia electrochimică sau infraroșie pentru detectarea CO**
+- ❌ **c) Se instalează doar în clădiri comerciale** - INCORECT (se instalează și în locuințe)
+- ✅ **d) Pot fi integrați în sisteme de instalații pentru siguranță**
+
+**Referință în curs: OMTMI - Curs 08 - Rev.01.pptx**
+> "Detectarea fumului sau a monoxidului de carbon (CO) în spații închise, cu scopul de a **preveni incendiile sau intoxicațiile**."
+> "Senzori de monoxid de carbon: **Utilizează tehnologii electrochimice sau infraroșii** pentru a detecta concentrațiile periculoase de CO."
+
+---
+
+## 15. În ce situații sunt utilizate clapetele antifoc în sistemele de ventilație?
+
+**Răspunsuri corecte: a), b), d)**
+
+- ✅ **a) În zonele cu risc ridicat de incendiu pentru a proteja viața ocupanților**
+- ✅ **b) În rețelele de ventilație ale clădirilor pentru a controla răspândirea fumului**
+- ❌ **c) În scopuri de economisire a energiei pentru sisteme de ventilație** - INCORECT
+- ✅ **d) În compartimentele rezistente la foc pentru a menține integritatea lor**
+
+**Referință în curs: OMTMI - Curs 08 - Rev.01.pptx**
+> "Sunt considerate organe de siguranță esențiale în sistemele de ventilație. Ele joacă un rol critic în **prevenirea propagării incendiilor și protejarea zonelor sigure** în cazul unui incendiu."
+> "**Menținerea integrității compartimentelor rezistente la foc**: Clapetele asigură izolarea compartimentelor antifoc."
+> "Special concepute pentru a **controla răspândirea fumului** în zone sigure."
+
+---
+
+## 16. Ce tipuri de găurire sunt posibile în cadrul tehnicii de carotare diamantată?
+
+**Răspunsuri corecte: a), b)**
+
+- ✅ **a) Găurire uscată**
+- ✅ **b) Găurire umedă**
+- ❌ **c) Găurire cu percuție** - INCORECT (carotarea diamantată NU folosește percuție)
+- ❌ **d) Găurire cu vibrație** - INCORECT
+
+**Referință în curs: OMTMI - Curs 12 - Rev.01.pptx**
+> "Poate fi realizată **găurirea uscată sau găurirea umedă** (cu răcire prin apă)."
+> "Tipuri de carotare diamantată: **Carotare umedă**... **Carotare uscată**..."
+
+---
+
+## 17. Care sunt tipurile de ancore mecanice?
+
+**Răspunsuri corecte: a), b), c)**
+
+- ✅ **a) Ancore cu expandare**
+- ✅ **b) Dibluri metalice și din plastic**
+- ✅ **c) Ancore cu autoforare**
+- ❌ **d) Ancore chimice cu rășină** - INCORECT (acestea sunt ancore CHIMICE, nu mecanice)
+
+**Referință în curs: OMTMI - Curs 12 - Rev.01.pptx**
+> "**Tipuri de ancore mecanice**:
+> - **Ancore cu expandare**: Ancorele se fixează prin expandare în interiorul găurii forate...
+> - **Dibluri metalice și din plastic**: Folosite pentru fixarea elementelor pe pereți...
+> - **Ancore cu autoforare**: Ancore care se fixează prin forare directă în material..."
+
+---
+
+## 18. Care sunt avantajele principale ale forajului orizontal prin percuție în comparație cu metodele tradiționale de săpătură deschisă?
+
+**Răspunsuri corecte: a), b), c), e)**
+
+- ✅ **a) Nu necesită săpătura unui șanț deschis**
+- ✅ **b) Permite instalarea rapidă a conductelor**
+- ✅ **c) Reduce costurile de excavare și manipulare a pământului**
+- ❌ **d) Necesită utilaje grele de excavație** - INCORECT (echipamentele sunt COMPACTE)
+- ✅ **e) Permite instalarea conductelor în zonele urbane dense**
+
+**Referință în curs: OMTMI - Curs 12 - Rev.01.pptx**
+> "**Minim invaziv: Evită săpătura deschisă**, fiind potrivit pentru traversări sub drumuri, trotuare, căi ferate."
+> "**Rapiditate**: Ideal pentru traversări scurte."
+> "**Costuri mai mici**: Comparativ cu forajul dirijat, este mai accesibil din punct de vedere al costurilor."
+> "**Utilizare simplă: Echipamentele sunt compacte** și ușor de transportat."
+> "Zone cu acces limitat: Acolo unde metodele tradiționale sunt imposibile sau costisitoare." (include zone urbane dense)
+
+---
+
+## Rezumat Răspunsuri Corecte - Subiectul 6 (Întrebările 9-18)
+
+| Întrebare | Răspunsuri corecte |
+|-----------|-------------------|
+| 9 | a), b), d) |
+| 10 | a), b) |
+| 11 | a), b), d) |
+| 12 | a), b) |
+| 13 | b) |
+| 14 | a), b), d) |
+| 15 | a), b), d) |
+| 16 | a), b) |
+| 17 | a), b), c) |
+| 18 | a), b), c), e) |
+
+**Toate răspunsurile au fost verificate în cursurile OMTMI Rev.01 din repository.**
