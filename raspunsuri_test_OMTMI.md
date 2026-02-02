@@ -625,3 +625,175 @@
 | 18 | a), b), c) |
 
 **Toate răspunsurile au fost verificate în cursurile OMTMI Rev.01 din repository.**
+
+---
+---
+
+# Subiectul 4 - Altă Variantă (Întrebările 9-18)
+
+---
+
+## 9. Ce tip de brățară poate declanșa coroziune electrochimică atunci când atinge direct țeava din cupru?
+
+**Răspuns corect: b)**
+
+- ❌ **a) Brățară din plastic** - INCORECT (plasticul nu declanșează coroziune electrochimică)
+- ✅ **b) Brățară din oțel**
+- ❌ **c) Brățară din cupru** - INCORECT (același material nu produce coroziune galvanică)
+- ❌ **d) Brățară din PVC** - INCORECT (PVC-ul nu declanșează coroziune electrochimică)
+
+**Referință în curs: OMTMI - Curs 03 - Rev.01.pptx**
+> "Se va acorda atenție deosebită ca **brățările din oțel să nu atingă direct țeava din cupru deoarece declanșează coroziune electrochimică** datorită efectului umidității, ceea ce va distruge suportul din oțel. În astfel de cazuri se vor utiliza garnituri de cauciuc între țeavă și brățară."
+
+---
+
+## 10. Care sunt avantajele procesului de sudură utilizat pentru fabricarea conductelor sudate elicoidal?
+
+**Răspunsuri corecte: a), b), d)**
+
+- ✅ **a) Penetrare profundă a sudurii**
+- ✅ **b) Protecție excelentă împotriva oxidării**
+- ❌ **c) Viteza de sudură scăzută** - INCORECT (este avantaj viteza MARE)
+- ✅ **d) Control precis al temperaturii și al vitezei de sudură**
+
+**Referință în curs: OMTMI - Curs 03 - Rev.01.pptx**
+> "Includ o **penetrare profundă a sudurii** și o **protecție excelentă împotriva oxidării**, ceea ce duce la suduri uniforme și durabile. Este ideal pentru sudarea continuă și permite **controlul precis al temperaturii și al vitezei de sudură**."
+
+---
+
+## 11. Care sunt avantajele conductelor de oțel preizolate?
+
+**Răspunsuri corecte: a), d)**
+
+- ✅ **a) Reducerea pierderilor termice cu 40-60% față de conductele neizolate**
+- ❌ **b) Durată de viață de până la 10 ani** - INCORECT (durata este 30-50 ani)
+- ❌ **c) Costuri de întreținere mai mari** - INCORECT (costurile sunt MAI MICI)
+- ✅ **d) Necesită mai puțină întreținere datorită protecției împotriva coroziunii**
+
+**Referință în curs: OMTMI - Curs 03 - Rev.01.pptx**
+> "**Reducerea pierderilor termice**: Izolația termică performantă **reduce pierderile de căldură cu până la 40-60%** față de conductele neizolate."
+> "Stratul exterior de protecție și spuma izolatoare contribuie la o rezistență crescută împotriva coroziunii și deteriorării, extinzând **durata de viață până la 30-50 de ani**."
+
+---
+
+## 12. Care sunt componentele structurale ale conductelor corugate din HDPE?
+
+**Răspunsuri corecte: a), b)**
+
+- ✅ **a) Stratul exterior corugat (ondulat)**
+- ✅ **b) Stratul interior neted**
+- ❌ **c) Stratul de protecție din beton** - INCORECT
+- ❌ **d) Stratul intermediar din fibră de sticlă** - INCORECT
+
+**Referință în curs: OMTMI - Curs 04 - Rev.01.pptx**
+> "**Stratul exterior corugat (ondulat)**: Acest strat are o structură ondulată, care conferă conductei rezistență mecanică superioară."
+> "**Stratul interior neted**: Stratul interior este neted și facilitează fluxul continuu al apei sau al altor fluide."
+
+---
+
+## 13. Care sunt caracteristicile polietilenei utilizate în fabricarea rezervoarelor de apă?
+
+**Răspunsuri corecte: a), b)**
+
+- ✅ **a) Rezistență la radiațiile UV și coroziune**
+- ✅ **b) Material de calitate alimentară, sigur pentru stocarea apei potabile**
+- ❌ **c) Este fragilă la temperaturi scăzute** - INCORECT (este rezistentă)
+- ❌ **d) Nu poate fi utilizată în contact cu lichide** - INCORECT
+
+**Referință în curs: OMTMI - Curs 04 - Rev.01.pptx**
+> "Polietilena este de obicei un **material de calitate, rezistent la radiațiile UV și la coroziune**."
+> (Pentru apă potabilă se folosește polietilenă de calitate alimentară)
+
+---
+
+## 14. De ce este important tratamentul anticoroziv în fabricarea recipientelor din oțel carbon?
+
+**Răspuns corect: a)**
+
+- ✅ **a) Previne rugina și asigură durabilitatea recipientului**
+- ❌ **b) Reduce greutatea recipientului** - INCORECT
+- ❌ **c) Crește rezistența la presiune** - INCORECT (tratamentul anticoroziv nu mărește rezistența la presiune)
+- ❌ **d) Îmbunătățește eficiența energetică a hidroforului** - INCORECT
+
+**Referință în curs: OMTMI - Curs 04 - Rev.01.pptx**
+> "La recipientele din oțel carbon, **tratamentul anticoroziv este crucial**. Acest tratament poate implica aplicarea unui strat de vopsea epoxidică pe interior sau galvanizarea întregului rezervor pentru a **preveni rugina**."
+
+---
+
+## 15. Care este rolul robinetului cu membrană (diafragmă)?
+
+**Răspunsuri corecte: a), c)**
+
+- ✅ **a) Este destinat distribuției fluidelor cu diferite grade de viscozitate**
+- ❌ **b) Este folosit doar pentru aer comprimat** - INCORECT
+- ✅ **c) Poate gestiona lichide contaminate sau potențial corozive**
+- ❌ **d) Nu poate fi utilizat pentru fluide neutre** - INCORECT (poate fi folosit și pentru fluide neutre)
+
+**Referință în curs: OMTMI - Curs 06 - Rev.01.pptx**
+> "Robinet cu membrană (diafragmă) - **Destinat diverselor aplicații pentru distribuția fluidelor tip lichide cu diferite grade de viscozitate, contaminate sau nu cu particule abrazive, neutre sau potențial corozive**."
+
+---
+
+## 16. Ce măsoară un debitmetru?
+
+**Răspuns corect: b)**
+
+- ❌ **a) Presiunea lichidului** - INCORECT (aceasta o măsoară manometrul)
+- ✅ **b) Cantitatea de lichid sau gaz care curge într-un anumit interval de timp**
+- ❌ **c) Temperatura fluidului** - INCORECT (aceasta o măsoară termometrul)
+- ❌ **d) Umiditatea aerului** - INCORECT (aceasta o măsoară higrometrul)
+
+**Referință în curs: OMTMI - Curs 07 - Rev.01.pptx**
+> "Definiție: **Debitmetrul este un dispozitiv utilizat pentru măsurarea cantității de lichid sau gaz care curge printr-o conductă într-un anumit interval de timp.**"
+
+---
+
+## 17. Care sunt avantajele utilizării clapetelor antifoc?
+
+**Răspunsuri corecte: a), c), e)**
+
+- ✅ **a) Prevenirea propagării flăcărilor între încăperi**
+- ❌ **b) Permite un flux constant de aer proaspăt în clădire** - INCORECT (clapetele SE ÎNCHID în caz de incendiu)
+- ✅ **c) Protejează ocupanții de fum și gaze toxice**
+- ❌ **d) Mărește viteza de evacuare a fumului din clădiri** - INCORECT
+- ✅ **e) Menține integritatea compartimentelor rezistente la foc conform normelor de siguranță**
+
+**Referință în curs: OMTMI - Curs 08 - Rev.01.pptx**
+> "Acestea dispozitive sunt integrate în rețelele de ventilație și climatizare pentru a **limita răspândirea flăcărilor, fumului sau gazelor toxice** prin conducte."
+> "**Aceste clapete împiedică distribuirea fumului și gazelor toxice** prin rețeaua de ventilație, **protejând ocupanții** și facilitând evacuarea."
+> "**Menținerea integrității compartimentelor rezistente la foc**: Clapetele asigură izolarea compartimentelor antifoc în conformitate cu cerințele de siguranță împotriva incendiilor."
+
+---
+
+## 18. Care sunt caracteristicile burghielor diamantate?
+
+**Răspunsuri corecte: a), d)**
+
+- ✅ **a) Au o durată de viață mare datorită particulelor diamantate**
+- ❌ **b) Sunt ieftine și ușor de înlocuit** - INCORECT (sunt scumpe)
+- ❌ **c) Pot perfora orice material, indiferent de duritatea acestuia** - INCORECT (sunt pt materiale dure)
+- ✅ **d) Oferă perforații precise și curate, fără margini deteriorate**
+- ❌ **e) Sunt eficiente doar în găurirea materialelor moi** - INCORECT (sunt eficiente în materiale DURE)
+
+**Referință în curs: OMTMI - Curs 12 - Rev.01.pptx**
+> "**Burghiele diamantate au o durată de viață mare datorită particulelor diamantate.**"
+> "Este o tehnică avansată de găurire, utilizată pentru a realiza **perforații precise, netede și fără vibrații** în materiale dure precum betonul armat, zidăria sau piatra naturală."
+
+---
+
+## Rezumat Răspunsuri Corecte - Subiectul 4 (Întrebările 9-18)
+
+| Întrebare | Răspunsuri corecte |
+|-----------|-------------------|
+| 9 | b) |
+| 10 | a), b), d) |
+| 11 | a), d) |
+| 12 | a), b) |
+| 13 | a), b) |
+| 14 | a) |
+| 15 | a), c) |
+| 16 | b) |
+| 17 | a), c), e) |
+| 18 | a), d) |
+
+**Toate răspunsurile au fost verificate în cursurile OMTMI Rev.01 din repository.**
