@@ -797,3 +797,154 @@
 | 18 | a), d) |
 
 **Toate răspunsurile au fost verificate în cursurile OMTMI Rev.01 din repository.**
+
+---
+---
+
+# Subiectul 5 - Altă Variantă (Întrebările 1-8)
+
+---
+
+## 1. Care sunt rolurile funcționale ale asamblărilor filetate?
+
+**Răspunsuri corecte: a), b), c), d)**
+
+- ✅ **a) Fixarea și/sau tensionarea pieselor**
+- ✅ **b) Transformarea mișcării de rotație în mișcare de translație**
+- ✅ **c) Amplificarea forței de strângere**
+- ✅ **d) Reglarea poziției relative a două piese**
+- ❌ **e) Împiedicarea deformării pieselor** - INCORECT (nu este rol funcțional specific)
+
+**Referință în curs: OMTMI - Curs 02 - Rev.01.pptx**
+> "Asamblările filetate pot fi clasificate după mai multe criterii:
+> 1. după rolul funcțional:
+> - **strângerea unor piese pentru fixare și/sau tensionare**;
+> - **transformarea mișcării de rotație în translație** (sau invers);
+> - **amplificarea forței cu care se face strângerea**;
+> - **reglarea poziției relative a două piese**;
+> - măsurarea."
+
+---
+
+## 2. Ce tipuri de îmbinări sunt facilitate de canelarea țevilor?
+
+**Răspuns corect: b)**
+
+- ❌ **a) Îmbinări realizate prin sudare** - INCORECT
+- ✅ **b) Îmbinări mecanice**
+- ❌ **c) Îmbinări prin lipire cu adeziv** - INCORECT
+- ❌ **d) Îmbinări prin flanșe** - INCORECT (canelarea facilitează îmbinări cu cuple mecanice)
+
+**Referință în curs: OMTMI - Curs 02 - Rev.01.pptx**
+> "ROLUIREA CANELURILOR - Roluirea țevilor de oțel este un proces care implică deformarea plastică a pereților țevii pentru a crea o canelură circulară..."
+> "Instalare de până la 10 ori mai rapidă decât **îmbinările sudate**" (sugerând că este o alternativă mecanică la sudură)
+
+---
+
+## 3. Care dintre următoarele afirmații sunt corecte cu privire la materialele pentru nituri?
+
+**Răspunsuri corecte: a), b), d)**
+
+- ✅ **a) Coeficientul de dilatare al nitului trebuie să fie apropiat de cel al tablelor asamblate**
+- ✅ **b) Materialele trebuie să permită formarea ușoară a nitului**
+- ❌ **c) Nitul trebuie să aibă o dilatare mult mai mare decât tablele asamblate** - INCORECT (trebuie APROPIAT)
+- ✅ **d) Materialele trebuie să nu permită curenți galvanici între nit și table**
+- ❌ **e) Nitul trebuie să fie fabricat dintr-un material complet diferit față de cel al tablelor asamblate** - INCORECT (trebuie apropiate ca natură)
+
+**Referință în curs: OMTMI - Curs 02 - Rev.01.pptx**
+> "Materialele pentru nituri trebuie să îndeplinească mai multe cerințe:
+> - **formare ușoară**;
+> - **asigurarea strângerii în condiții variate de temperatură** (coeficient de dilatare apropiat de cel al tablelor asamblate);
+> - nitul și tablele asamblate trebuie să fie **apropiate ca natură, pentru a nu se produce curenți galvanici** cu efect de coroziune."
+
+---
+
+## 4. Ce tipuri de materiale pot fi sudate?
+
+**Răspuns corect: c)**
+
+- ❌ **a) Doar materiale din același tip de metal** - INCORECT (pot fi și diferite)
+- ❌ **b) Doar materiale cu aceeași compoziție chimică** - INCORECT (pot fi doar apropiate)
+- ✅ **c) Materiale din același material sau materiale diferite, dar având compoziția chimică apropiată**
+- ❌ **d) Doar materiale plastice** - INCORECT
+- ❌ **e) Doar materiale care pot fi topite ușor** - INCORECT
+
+**Referință în curs: OMTMI - Curs 02 - Rev.01.pptx**
+> "Operația tehnologică prin care se asamblează nedemontabil două piese **din același material sau materiale diferite dar având compoziția chimică apropiată** poartă denumirea de sudare."
+
+---
+
+## 5. Care dintre următoarele afirmații sunt adevărate despre îmbinările prin lipire?
+
+**Răspunsuri corecte: b), d), e)**
+
+- ❌ **a) Materialul de bază se topește în timpul procesului de lipire** - INCORECT (NU se topește)
+- ✅ **b) Metalul de adaos are un punct de topire mai scăzut decât materialul de bază**
+- ❌ **c) Rezistența mecanică a îmbinării prin lipire este mai mare decât cea a sudurilor** - INCORECT (este MAI MICĂ)
+- ✅ **d) Se utilizează efectul termic pentru realizarea legăturii**
+- ✅ **e) Nu se produce nicio modificare structurală a materialului de bază**
+
+**Referință în curs: OMTMI - Curs 02 - Rev.01.pptx**
+> "Sunt îmbinări nedemontabile a pieselor metalice, la care legătura se realizează prin difuzia metalului de adaos... se folosește **efectul termic** pentru realizarea legăturii... dar **metalul de bază nu se topește**, metalul de adaos este diferit de cel de bază (**are punctul de topire mai scăzut**), **nu se modifică structural materialul de bază**, dar **rezistența mecanică este mai mică** decât la suduri."
+
+---
+
+## 6. Care este principiul de bază al termofuziunii?
+
+**Răspunsuri corecte: a), c), e)**
+
+- ✅ **a) Încălzirea simultană a capetelor conductelor și a fitingurilor până devin maleabile**
+- ❌ **b) Topirea completă a materialului pentru a forma o îmbinare** - INCORECT (devine doar PLASTIC/maleabil)
+- ✅ **c) Unirea conductelor și a fitingurilor din PPR sub presiune**
+- ❌ **d) Utilizarea unui adeziv special pentru îmbinare** - INCORECT
+- ✅ **e) Crearea unei legături permanente, solide și etanșe**
+
+**Referință în curs: OMTMI - Curs 02 - Rev.01.pptx**
+> "Termofuziunea este o metodă utilizată frecvent pentru îmbinarea conductelor din PPR și se bazează pe principiul **încălzirii simultane a capetelor conductelor și a fitingurilor din PPR până când materialul devine plastic (maleabil)**, iar apoi **se unesc sub presiune** pentru a crea o **legătură permanentă, solidă și etanșă**."
+
+---
+
+## 7. Care sunt condițiile necesare pentru o îmbinare reușită prin electrofuziune?
+
+**Răspunsuri corecte: a), b), c), d) - TOATE**
+
+- ✅ **a) Aplicarea corectă a curentului electric**
+- ✅ **b) Pregătirea riguroasă a suprafeței conductei și a fitingului**
+- ✅ **c) Utilizarea fitingurilor electrofuzibile compatibile cu diametrul conductelor**
+- ✅ **d) Lipsa completă a contaminării suprafețelor de îmbinat**
+
+**Referință în curs: OMTMI - Curs 02 - Rev.01.pptx**
+> "**Risc de contaminare dacă suprafețele nu sunt pregătite corect**"
+> "**Compatibilitate cu diametre variate**: Fitingurile electrofuzibile pot fi utilizate pentru o gamă largă de dimensiuni de conducte."
+> (Curentul electric este esențial pentru funcționarea electrofuziunii)
+
+---
+
+## 8. Ce efect are umiditatea asupra brățării din oțel atunci când aceasta atinge țeava din cupru?
+
+**Răspuns corect: c)**
+
+- ❌ **a) Nu are niciun efect** - INCORECT
+- ❌ **b) Previne coroziunea** - INCORECT
+- ✅ **c) Declanșează coroziune electrochimică**
+- ❌ **d) O face mai rezistentă** - INCORECT
+
+**Referință în curs: OMTMI - Curs 03 - Rev.01.pptx**
+> "Se va acorda atenție deosebită ca brățările din oțel să nu atingă direct țeava din cupru deoarece **declanșează coroziune electrochimică datorită efectului umidității**, ceea ce va distruge suportul din oțel."
+
+---
+
+## Rezumat Răspunsuri Corecte - Subiectul 5 (Întrebările 1-8)
+
+| Întrebare | Răspunsuri corecte |
+|-----------|-------------------|
+| 1 | a), b), c), d) |
+| 2 | b) |
+| 3 | a), b), d) |
+| 4 | c) |
+| 5 | b), d), e) |
+| 6 | a), c), e) |
+| 7 | a), b), c), d) |
+| 8 | c) |
+
+**Toate răspunsurile au fost verificate în cursurile OMTMI Rev.01 din repository.**
