@@ -149,4 +149,154 @@
 | 7 | a), c), d) |
 | 8 | a), b), c), d) |
 
+**Toate răspunsurile de mai sus au fost verificate în cursurile OMTMI Rev.01 din repository.**
+
+---
+---
+
+# Test OMTMI - Set 2 de Întrebări
+
+---
+
+## 1. Cum se clasifică asamblările utilizate în instalații?
+
+**Răspuns corect: b)**
+
+- ❌ **a) În asamblări simple și complexe** - INCORECT
+- ✅ **b) În asamblări nedemontabile și demontabile**
+- ❌ **c) În îmbinări mecanice și sudate** - INCORECT
+- ❌ **d) În asamblări ieftine și costisitoare** - INCORECT
+
+**Referință în curs: OMTMI - Curs 02 - Rev.01.pptx**
+> "**Asamblările folosite în instalații se clasifică în asamblări nedemontabile (îmbinări) și asamblări demontabile.**"
+
+---
+
+## 2. Care sunt avantajele asamblărilor demontabile?
+
+**Răspunsuri corecte: a), c)**
+
+- ✅ **a) Permit întreținerea și deservirea ansamblelor și subansamblelor**
+- ❌ **b) Sunt, în general, mai ieftine decât îmbinările nedemontabile** - INCORECT (sunt mai SCUMPE)
+- ✅ **c) Se folosesc în condiții de realizare impuse de piese compuse**
+- ❌ **d) Permit utilizarea forțelor de coeziune** - INCORECT (aceasta este caracteristică îmbinărilor sudate/lipite)
+
+**Referință în curs: OMTMI - Curs 02 - Rev.01.pptx**
+> "Asamblările demontabile permit montarea și demontarea ulterioară, fără distrugerea organelor de asamblare și a pieselor asamblate, ori de câte ori este necesar."
+
+> "Deși, în general, **sunt mai scumpe decât asamblările nedemontabile**, de multe ori, datorită **condițiilor impuse de realizarea pieselor compuse**, a subansamblelor și ansamblelor (**de montare, de întreținere, de deservire etc.**), sunt folosite asamblările demontabile."
+
+---
+
+## 3. Ce rol joacă piesa conjugată în asamblările filetate?
+
+**Răspuns corect: a)**
+
+- ✅ **a) Are rol funcțional de piuliță sau alt rol similar**
+- ❌ **b) Este o piesă care nu interacționează cu șurubul** - INCORECT
+- ❌ **c) Se montează pe partea exterioară a șurubului** - INCORECT (se montează pe interior)
+- ❌ **d) Este filetată la exterior** - INCORECT (este filetată la INTERIOR)
+
+**Referință în curs: OMTMI - Curs 02 - Rev.01.pptx**
+> "Asamblările filetate sunt asamblări demontabile, realizate prin intermediul a două piese filetate, conjugate, una filetată la exterior (șurub), iar **piesa conjugată, filetată la interior, poate fi o piuliță sau o altă piesă cu rol funcțional de piuliță**."
+
+---
+
+## 4. Care sunt avantajele utilizării niturilor în locul sudării?
+
+**Răspunsuri corecte: a), d)**
+
+- ✅ **a) Pot fi folosite în situații în care sudura nu este recomandată**
+- ❌ **b) Sunt ușor de demontat** - INCORECT (nituirea este NEDEMONTABILĂ)
+- ❌ **c) Permit asamblarea pieselor metalice fără a le găuri** - INCORECT (necesită găurire)
+- ✅ **d) Oferă o îmbinare rigidă**
+- ❌ **e) Se utilizează pentru asamblări temporare** - INCORECT (sunt permanente)
+
+**Referință în curs: OMTMI - Curs 02 - Rev.01.pptx**
+> "[Nituirea] Este utilizată în special acolo **unde din diverse motive nu sunt recomandate asamblările sudate**."
+
+> "Prin operația de nituire se realizează **asamblarea rigidă** a două sau mai multe table sau profile cu ajutorul unor piese intermediare numite nituri."
+
+---
+
+## 5. Cum se obține capul celui de-al doilea capăt al nitului?
+
+**Răspuns corect: a)**
+
+- ✅ **a) Prin deformare plastică**
+- ❌ **b) Prin sudare** - INCORECT
+- ❌ **c) Prin tăiere** - INCORECT
+- ❌ **d) Prin presare** - INCORECT (presarea face parte din deformarea plastică, dar răspunsul corect este deformarea plastică)
+- ❌ **e) Prin lipire** - INCORECT
+
+**Referință în curs: OMTMI - Curs 02 - Rev.01.pptx**
+> "Nitul are inițial o formă cilindrică, la unul din capete un cap, iar **cel de-al doilea cap se obține prin deformare plastică** folosind diverse procedee."
+
+---
+
+## 6. Care sunt aplicațiile tipice ale lipiturii moi?
+
+**Răspunsuri corecte: a), d)**
+
+- ✅ **a) Instalații sanitare și de încălzire cu presiuni relativ scăzute**
+- ❌ **b) Sisteme de refrigerare la presiuni ridicate** - INCORECT (aceasta este pentru lipitură TARE)
+- ❌ **c) Aplicații de aer condiționat și gaze tehnice** - INCORECT (aceasta este pentru lipitură TARE)
+- ✅ **d) Sisteme de apă rece cu presiuni de până la 20-25 bari**
+- ❌ **e) Sisteme industriale cu temperaturi ridicate** - INCORECT (lipitură moale este pentru temperaturi scăzute)
+
+**Referință în curs: OMTMI - Curs 02 - Rev.01.pptx**
+> "În general, lipitura moale este utilizată în **sisteme cu presiuni relativ scăzute, cum ar fi instalațiile de apă potabilă sau sistemele de încălzire**."
+
+> "De obicei, îmbinările prin lipitură moale pot rezista la **presiuni de până la 20-25 bari** la temperaturi joase, **în special în sisteme de apă rece**."
+
+> "**Lipitura moale este folosită în instalații sanitare și de încălzire** unde presiunile și temperaturile nu sunt foarte ridicate."
+
+---
+
+## 7. Care sunt aplicațiile principale ale PE-Xa?
+
+**Răspunsuri corecte: a), b)**
+
+- ✅ **a) Instalații de apă potabilă**
+- ✅ **b) Încălzire în pardoseală**
+- ❌ **c) Sisteme de conducte pentru gaze naturale** - INCORECT (PE-Xa nu este pentru gaze)
+- ❌ **d) Conducte pentru scurgerea apelor reziduale** - INCORECT (nu este aplicație tipică PE-Xa)
+
+**Referință în curs: OMTMI - Curs 03 - Rev.01.pptx**
+> "**PE-Xa** este o formă de polietilenă reticulată (cross-linked polyethylene) folosită în special pentru sisteme de țevi, mai ales **în instalațiile de apă potabilă și de încălzire în pardoseală**."
+
+> "Țevile PE-Xa sunt realizate din plastic de calitate superioară și respectă toate standardele **pentru sistemele de apă potabilă**."
+
+> "2️⃣ **Instalații de încălzire prin pardoseală** - Conductele PEX-a / PEX-b / PE-RT se montează în plăci de pardoseală..."
+
+---
+
+## 8. Cum poate fi compensată conductivitatea termică ridicată a cuprului?
+
+**Răspuns corect: b)**
+
+- ❌ **a) Prin utilizarea fitingurilor mecanice mai simple** - INCORECT
+- ✅ **b) Prin aplicarea unui strat izolator pe conducte**
+- ❌ **c) Prin alegerea unor conducte cu pereți mai groși** - INCORECT
+- ❌ **d) Prin înlocuirea cuprului cu materiale plastice** - INCORECT (aceasta nu compensează, ci înlocuiește)
+- ❌ **e) Prin evitarea utilizării în sisteme de încălzire** - INCORECT
+
+**Referință în curs: OMTMI - Curs 03 - Rev.01.pptx**
+> "**Conductivitate termică ridicată**: cuprul are o conductivitate termică foarte mare, ceea ce înseamnă că **pierde rapid căldura**. Acest lucru poate reprezenta un dezavantaj în anumite sisteme de încălzire sau în instalațiile unde se dorește păstrarea temperaturii fluidului transportat. Astfel, **conductele din cupru pot necesita o izolare suplimentară** pentru a preveni pierderile de căldură."
+
+---
+
+## Rezumat Răspunsuri Corecte - Set 2
+
+| Întrebare | Răspunsuri corecte |
+|-----------|-------------------|
+| 1 | b) |
+| 2 | a), c) |
+| 3 | a) |
+| 4 | a), d) |
+| 5 | a) |
+| 6 | a), d) |
+| 7 | a), b) |
+| 8 | b) |
+
 **Toate răspunsurile au fost verificate în cursurile OMTMI Rev.01 din repository.**
