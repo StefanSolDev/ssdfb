@@ -1133,3 +1133,175 @@
 | 18 | a), b), c), e) |
 
 **Toate răspunsurile au fost verificate în cursurile OMTMI Rev.01 din repository.**
+
+---
+---
+
+# Subiectul 7 - Întrebările 9-18 (image_2026-02-02_184852288.png)
+
+---
+
+## 9. Ce factor poate influența cantitatea de apă consumată pentru producerea cuprului?
+
+**Răspunsuri corecte: a), c), d)**
+
+- ✅ **a) Tipul de proces folosit**
+- ❌ **b) Temperatura mediului înconjurător** - INCORECT (nu influențează direct consumul de apă în producție)
+- ✅ **c) Eficiența utilizării apei**
+- ✅ **d) Tipul de materii prime utilizate**
+
+**Referință în curs: OMTMI - Curs 03 - Rev.01.pptx**
+> Producția de cupru necesită cantități mari de apă pentru diferite procese, iar **tipul de proces folosit**, **eficiența utilizării apei** și **tipul de materii prime** influențează direct consumul.
+
+---
+
+## 10. Care sunt caracteristicile conductelor de oțel preizolate?
+
+**Răspunsuri corecte: a), c)**
+
+- ✅ **a) Izolație termică realizată din spumă poliuretanică (PUR)**
+- ❌ **b) Conductă interioară din inoxidabil** - INCORECT (poate fi din oțel carbon sau inoxidabil, nu exclusiv inoxidabil)
+- ✅ **c) Stratul exterior de protecție realizat din polietilenă (PE) sau tablă de oțel galvanizat**
+- ❌ **d) Izolație realizată doar din spumă minerală** - INCORECT (izolația este din PUR, nu doar spumă minerală)
+
+**Referință în curs: OMTMI - Curs 03 - Rev.01.pptx**
+> "Conductele de oțel preizolate constau din trei straturi principale:
+> Conducta interioară din oțel: Fabricată din **oțel carbon** (pentru apă caldă și abur) sau oțel inoxidabil...
+> Izolația termică: De obicei, realizată din **spumă poliuretanică (PUR)**...
+> Stratul exterior de protecție: Învelișul exterior, realizat din **polietilenă (PE) sau o carcasă de tablă din oțel galvanizat**."
+
+---
+
+## 11. Care este scopul principal al recipientelor pentru hidrofor?
+
+**Răspunsuri corecte: a), b)**
+
+- ✅ **a) Menținerea și reglarea presiunii apei în instalațiile sanitare**
+- ✅ **b) Reducerea frecvenței de pornire a pompei**
+- ❌ **c) Depozitarea temporară a apelor reziduale** - INCORECT (recipientele de hidrofor nu sunt pentru ape reziduale)
+- ❌ **d) Asigurarea răcirii apei din instalație** - INCORECT (nu au rol de răcire)
+
+**Referință în curs: OMTMI - Curs 04 - Rev.01.pptx**
+> "Recipientele pentru hidrofoare sunt componente esențiale în sistemele de distribuție a apei, având rolul de a **menține și regla presiunea apei**."
+> "**Reducerea ciclurilor de pornire/oprire ale pompei**: Vasul de expansiune oferă un volum de apă sub presiune care poate satisface cerințele mici de debit fără a porni pompa."
+
+---
+
+## 12. Ce tip de robinet este potrivit pentru controlul refluxului de fluide?
+
+**Răspuns corect: c)**
+
+- ❌ **a) Robinet cu bilă** - INCORECT (este pentru control flux, nu antiretur)
+- ❌ **b) Vana fluture** - INCORECT (este pentru control flux, nu antiretur)
+- ✅ **c) Supapă de reținere**
+- ❌ **d) Robinet poartă** - INCORECT (este pentru control flux, nu antiretur)
+
+**Referință în curs: OMTMI - Curs 06 - Rev.01.pptx**
+> "**Supapa de reținere (clapeta de sens)**: Permite curgerea fluidului într-o singură direcție și **împiedică refluxul**."
+> "**Control reflux**: Supape de reținere."
+
+---
+
+## 13. Care este principiul de funcționare al unui higrometru mecanic?
+
+**Răspuns corect: b)**
+
+- ❌ **a) Utilizează un strat dielectric care își modifică permitivitatea electrică** - INCORECT (aceasta este pentru higrometru capacitiv/electronic)
+- ✅ **b) Se bazează pe modificarea lungimii unui material higroscopic**
+- ❌ **c) Se bazează pe inducția electromagnetică** - INCORECT
+- ❌ **d) Utilizează unde ultrasonice** - INCORECT
+
+**Referință în curs: OMTMI - Curs 07 - Rev.01.pptx**
+> "**Higrometrul mecanic** (cu fir de păr sau material higroscopic) - Principiu de funcționare: **Se bazează pe proprietatea unor materiale higroscopice de a-și modifica lungimea în funcție de umiditatea aerului.**"
+
+---
+
+## 14. Care sunt avantajele senzorilor optici pentru detectarea fumului?
+
+**Răspunsuri corecte: a), b)**
+
+- ✅ **a) Detectează un spectru larg de fum, inclusiv fumul fin**
+- ✅ **b) Răspuns rapid la incendiile cu fum gros**
+- ❌ **c) Verificări periodice efectuate de personal nespecializat** - INCORECT (nu este un avantaj specific al senzorilor optici)
+- ❌ **d) Pot fi utilizați numai în locații comerciale** - INCORECT (pot fi utilizați și în locuințe)
+
+**Referință în curs: OMTMI - Curs 08 - Rev.01.pptx**
+> "Senzori optici de fum: **Detectează un spectru larg de fum**, **Răspuns rapid la incendii**."
+
+---
+
+## 15. Care este scopul principal al clapetelor antifoc în sistemele de ventilație?
+
+**Răspunsuri corecte: a), c)**
+
+- ✅ **a) Prevenirea propagării incendiilor între zonele clădirii**
+- ❌ **b) Permite ventilarea permanentă a clădirii** - INCORECT (clapetele antifoc se închid în caz de incendiu)
+- ✅ **c) Protejarea zonelor sigure în cazul unui incendiu**
+- ❌ **d) Distribuirea uniformă a aerului pe întreaga clădire** - INCORECT (aceasta este funcția sistemului de ventilație, nu a clapetelor antifoc)
+- ❌ **e) Reducerea consumului de energie în sistemele de climatizare** - INCORECT
+
+**Referință în curs: OMTMI - Curs 08 - Rev.01.pptx**
+> "Sunt considerate organe de siguranță esențiale în sistemele de ventilație. Ele joacă un rol critic în **prevenirea propagării incendiilor și protejarea zonelor sigure** în cazul unui incendiu."
+
+---
+
+## 16. Care sunt principalele materiale în care se utilizează carotarea diamantată?
+
+**Răspunsuri corecte: a), c), d)**
+
+- ✅ **a) Beton armat**
+- ❌ **b) Lemn** - INCORECT (pentru lemn se folosesc alte metode de găurire)
+- ✅ **c) Zidărie**
+- ✅ **d) Piatra naturală**
+
+**Referință în curs: OMTMI - Curs 12 - Rev.01.pptx**
+> "Carotarea diamantată este utilizată pentru a crea găuri precise în materiale dure precum **beton armat, zidărie, piatră naturală**."
+> "Materiale compatibile: **Beton, beton armat, cărămidă, piatră naturală, asfalt**."
+
+---
+
+## 17. Care sunt avantajele ancorelor chimice?
+
+**Răspunsuri corecte: a), c)**
+
+- ✅ **a) Fixare fără expansiune, prevenind fisurarea betonului**
+- ❌ **b) Se pot utiliza doar în găuri uscate** - INCORECT (există ancore chimice pentru găuri umede)
+- ✅ **c) Pot fi utilizate pentru fixarea sarcinilor grele în beton armat, cărămidă și piatră naturală**
+- ❌ **d) Fixarea se bazează pe dilatarea materialului, exercitând presiune asupra pereților găurii și posibile fisuri** - INCORECT (aceasta este caracteristică ancorelor MECANICE, nu chimice)
+
+**Referință în curs: OMTMI - Curs 12 - Rev.01.pptx**
+> "Ancore chimice: **Fixare fără expansiune**: Nu produc tensiuni în material, ceea ce **previne fisurarea betonului**."
+> "**Pot fi utilizate pentru sarcini grele** în beton, cărămidă și piatră naturală."
+
+---
+
+## 18. Care sunt materialele din care sunt fabricate colierele pentru conducte?
+
+**Răspunsuri corecte: a), b), c), d) - TOATE**
+
+- ✅ **a) Oțel galvanizat**
+- ✅ **b) Plastic**
+- ✅ **c) Aluminiu**
+- ✅ **d) Inox**
+
+**Referință în curs: OMTMI - Curs 12 - Rev.01.pptx**
+> "Colierele pentru conducte sunt realizate din diverse materiale: **oțel galvanizat, inox, plastic, aluminiu**."
+
+---
+
+## Rezumat Răspunsuri Corecte - Subiectul 7 (Întrebările 9-18)
+
+| Întrebare | Răspunsuri corecte |
+|-----------|-------------------|
+| 9 | a), c), d) |
+| 10 | a), c) |
+| 11 | a), b) |
+| 12 | c) |
+| 13 | b) |
+| 14 | a), b) |
+| 15 | a), c) |
+| 16 | a), c), d) |
+| 17 | a), c) |
+| 18 | a), b), c), d) |
+
+**Toate răspunsurile au fost verificate în cursurile OMTMI Rev.01 din repository.**
