@@ -1133,3 +1133,466 @@
 | 18 | a), b), c), e) |
 
 **Toate răspunsurile au fost verificate în cursurile OMTMI Rev.01 din repository.**
+
+---
+---
+
+# Subiectul 7 - Întrebările 9-18 (image_2026-02-02_184852288.png)
+
+---
+
+## 9. Ce factor poate influența cantitatea de apă consumată pentru producerea cuprului?
+
+**Răspunsuri corecte: a), c), d)**
+
+- ✅ **a) Tipul de proces folosit**
+- ❌ **b) Temperatura mediului înconjurător** - INCORECT (nu influențează direct consumul de apă în producție)
+- ✅ **c) Eficiența utilizării apei**
+- ✅ **d) Tipul de materii prime utilizate**
+
+**Referință în curs: OMTMI - Curs 03 - Rev.01.pptx**
+> Producția de cupru necesită cantități mari de apă pentru diferite procese, iar **tipul de proces folosit**, **eficiența utilizării apei** și **tipul de materii prime** influențează direct consumul.
+
+---
+
+## 10. Care sunt caracteristicile conductelor de oțel preizolate?
+
+**Răspunsuri corecte: a), c)**
+
+- ✅ **a) Izolație termică realizată din spumă poliuretanică (PUR)**
+- ❌ **b) Conductă interioară din inoxidabil** - INCORECT (poate fi din oțel carbon sau inoxidabil, nu exclusiv inoxidabil)
+- ✅ **c) Stratul exterior de protecție realizat din polietilenă (PE) sau tablă de oțel galvanizat**
+- ❌ **d) Izolație realizată doar din spumă minerală** - INCORECT (izolația este din PUR, nu doar spumă minerală)
+
+**Referință în curs: OMTMI - Curs 03 - Rev.01.pptx**
+> "Conductele de oțel preizolate constau din trei straturi principale:
+> Conducta interioară din oțel: Fabricată din **oțel carbon** (pentru apă caldă și abur) sau oțel inoxidabil...
+> Izolația termică: De obicei, realizată din **spumă poliuretanică (PUR)**...
+> Stratul exterior de protecție: Învelișul exterior, realizat din **polietilenă (PE) sau o carcasă de tablă din oțel galvanizat**."
+
+---
+
+## 11. Care este scopul principal al recipientelor pentru hidrofor?
+
+**Răspunsuri corecte: a), b)**
+
+- ✅ **a) Menținerea și reglarea presiunii apei în instalațiile sanitare**
+- ✅ **b) Reducerea frecvenței de pornire a pompei**
+- ❌ **c) Depozitarea temporară a apelor reziduale** - INCORECT (recipientele de hidrofor nu sunt pentru ape reziduale)
+- ❌ **d) Asigurarea răcirii apei din instalație** - INCORECT (nu au rol de răcire)
+
+**Referință în curs: OMTMI - Curs 04 - Rev.01.pptx**
+> "Recipientele pentru hidrofoare sunt componente esențiale în sistemele de distribuție a apei, având rolul de a **menține și regla presiunea apei**."
+> "**Reducerea ciclurilor de pornire/oprire ale pompei**: Vasul de expansiune oferă un volum de apă sub presiune care poate satisface cerințele mici de debit fără a porni pompa."
+
+---
+
+## 12. Ce tip de robinet este potrivit pentru controlul refluxului de fluide?
+
+**Răspuns corect: c)**
+
+- ❌ **a) Robinet cu bilă** - INCORECT (este pentru control flux, nu antiretur)
+- ❌ **b) Vana fluture** - INCORECT (este pentru control flux, nu antiretur)
+- ✅ **c) Supapă de reținere**
+- ❌ **d) Robinet poartă** - INCORECT (este pentru control flux, nu antiretur)
+
+**Referință în curs: OMTMI - Curs 06 - Rev.01.pptx**
+> "**Supapa de reținere (clapeta de sens)**: Permite curgerea fluidului într-o singură direcție și **împiedică refluxul**."
+> "**Control reflux**: Supape de reținere."
+
+---
+
+## 13. Care este principiul de funcționare al unui higrometru mecanic?
+
+**Răspuns corect: b)**
+
+- ❌ **a) Utilizează un strat dielectric care își modifică permitivitatea electrică** - INCORECT (aceasta este pentru higrometru capacitiv/electronic)
+- ✅ **b) Se bazează pe modificarea lungimii unui material higroscopic**
+- ❌ **c) Se bazează pe inducția electromagnetică** - INCORECT
+- ❌ **d) Utilizează unde ultrasonice** - INCORECT
+
+**Referință în curs: OMTMI - Curs 07 - Rev.01.pptx**
+> "**Higrometrul mecanic** (cu fir de păr sau material higroscopic) - Principiu de funcționare: **Se bazează pe proprietatea unor materiale higroscopice de a-și modifica lungimea în funcție de umiditatea aerului.**"
+
+---
+
+## 14. Care sunt avantajele senzorilor optici pentru detectarea fumului?
+
+**Răspunsuri corecte: a), b)**
+
+- ✅ **a) Detectează un spectru larg de fum, inclusiv fumul fin**
+- ✅ **b) Răspuns rapid la incendiile cu fum gros**
+- ❌ **c) Verificări periodice efectuate de personal nespecializat** - INCORECT (nu este un avantaj specific al senzorilor optici)
+- ❌ **d) Pot fi utilizați numai în locații comerciale** - INCORECT (pot fi utilizați și în locuințe)
+
+**Referință în curs: OMTMI - Curs 08 - Rev.01.pptx**
+> "Senzori optici de fum: **Detectează un spectru larg de fum**, **Răspuns rapid la incendii**."
+
+---
+
+## 15. Care este scopul principal al clapetelor antifoc în sistemele de ventilație?
+
+**Răspunsuri corecte: a), c)**
+
+- ✅ **a) Prevenirea propagării incendiilor între zonele clădirii**
+- ❌ **b) Permite ventilarea permanentă a clădirii** - INCORECT (clapetele antifoc se închid în caz de incendiu)
+- ✅ **c) Protejarea zonelor sigure în cazul unui incendiu**
+- ❌ **d) Distribuirea uniformă a aerului pe întreaga clădire** - INCORECT (aceasta este funcția sistemului de ventilație, nu a clapetelor antifoc)
+- ❌ **e) Reducerea consumului de energie în sistemele de climatizare** - INCORECT
+
+**Referință în curs: OMTMI - Curs 08 - Rev.01.pptx**
+> "Sunt considerate organe de siguranță esențiale în sistemele de ventilație. Ele joacă un rol critic în **prevenirea propagării incendiilor și protejarea zonelor sigure** în cazul unui incendiu."
+
+---
+
+## 16. Care sunt principalele materiale în care se utilizează carotarea diamantată?
+
+**Răspunsuri corecte: a), c), d)**
+
+- ✅ **a) Beton armat**
+- ❌ **b) Lemn** - INCORECT (pentru lemn se folosesc alte metode de găurire)
+- ✅ **c) Zidărie**
+- ✅ **d) Piatra naturală**
+
+**Referință în curs: OMTMI - Curs 12 - Rev.01.pptx**
+> "Carotarea diamantată este utilizată pentru a crea găuri precise în materiale dure precum **beton armat, zidărie, piatră naturală**."
+> "Materiale compatibile: **Beton, beton armat, cărămidă, piatră naturală, asfalt**."
+
+---
+
+## 17. Care sunt avantajele ancorelor chimice?
+
+**Răspunsuri corecte: a), c)**
+
+- ✅ **a) Fixare fără expansiune, prevenind fisurarea betonului**
+- ❌ **b) Se pot utiliza doar în găuri uscate** - INCORECT (există ancore chimice pentru găuri umede)
+- ✅ **c) Pot fi utilizate pentru fixarea sarcinilor grele în beton armat, cărămidă și piatră naturală**
+- ❌ **d) Fixarea se bazează pe dilatarea materialului, exercitând presiune asupra pereților găurii și posibile fisuri** - INCORECT (aceasta este caracteristică ancorelor MECANICE, nu chimice)
+
+**Referință în curs: OMTMI - Curs 12 - Rev.01.pptx**
+> "Ancore chimice: **Fixare fără expansiune**: Nu produc tensiuni în material, ceea ce **previne fisurarea betonului**."
+> "**Pot fi utilizate pentru sarcini grele** în beton, cărămidă și piatră naturală."
+
+---
+
+## 18. Care sunt materialele din care sunt fabricate colierele pentru conducte?
+
+**Răspunsuri corecte: a), b), c), d) - TOATE**
+
+- ✅ **a) Oțel galvanizat**
+- ✅ **b) Plastic**
+- ✅ **c) Aluminiu**
+- ✅ **d) Inox**
+
+**Referință în curs: OMTMI - Curs 12 - Rev.01.pptx**
+> "Colierele pentru conducte sunt realizate din diverse materiale: **oțel galvanizat, inox, plastic, aluminiu**."
+
+---
+
+## Rezumat Răspunsuri Corecte - Subiectul 7 (Întrebările 9-18)
+
+| Întrebare | Răspunsuri corecte |
+|-----------|-------------------|
+| 9 | a), c), d) |
+| 10 | a), c) |
+| 11 | a), b) |
+| 12 | c) |
+| 13 | b) |
+| 14 | a), b) |
+| 15 | a), c) |
+| 16 | a), c), d) |
+| 17 | a), c) |
+| 18 | a), b), c), d) |
+
+**Toate răspunsurile au fost verificate în cursurile OMTMI Rev.01 din repository.**
+
+---
+---
+
+# Subiectul 8 - Întrebări cu răspunsuri multiple
+
+---
+
+## 1. Care dintre următoarele sunt ansambluri?
+
+**Răspunsuri corecte: a), c), d)**
+
+- ✅ **a) Microcentrala termică murală** - Este un ansamblu complex format din mai multe subansambluri
+- ❌ **b) Arborele unei pompe** - INCORECT (este o piesă/component, nu un ansamblu)
+- ✅ **c) Unitatea de tratare a aerului (AHU)** - Este un ansamblu format din ventilator, schimbător de căldură, filtre etc.
+- ✅ **d) Schimbătorul de căldură** - Este un ansamblu/subansamblu format din mai multe piese
+
+**Referință în curs: OMTMI - Curs 01 - Rev.01.pptx**
+> Ansamblurile sunt produse complexe formate din mai multe subansambluri și piese asamblate. Exemple: centrale termice, unități de tratare a aerului, schimbătoare de căldură.
+
+---
+
+## 2. Un schimbător de căldură dintr-o centrală termică este considerat:
+
+**Răspuns corect: b)**
+
+- ❌ **a) Un ansamblu** - INCORECT (în contextul centralei termice, este parte componentă)
+- ✅ **b) Un subansamblu** - Corect, face parte din ansamblul centralei termice
+- ❌ **c) O piesă simplă** - INCORECT (schimbătorul de căldură este format din mai multe piese)
+- ❌ **d) Un mecanism complet independent** - INCORECT (funcționează în cadrul centralei)
+
+**Referință în curs: OMTMI - Curs 01 - Rev.01.pptx**
+> "Subansamblu - un grup de piese care realizează independent o funcție bine determinată în cadrul unui ansamblu." Schimbătorul de căldură realizează funcția de transfer termic în cadrul centralei termice.
+
+---
+
+## 3. Ce tipuri de asamblări sunt incluse în categoria asamblărilor nedemontabile?
+
+**Răspunsuri corecte: a), b), c), d)**
+
+- ✅ **a) Asamblările nituite** - Corect, nituirea este nedemontabilă
+- ✅ **b) Asamblările prin sudare** - Corect, sudura este nedemontabilă
+- ✅ **c) Asamblările prin lipire** - Corect, lipirea este nedemontabilă
+- ✅ **d) Asamblările prin încleiere** - Corect, încleierea este nedemontabilă
+- ❌ **e) Asamblările prin strângere cu șuruburi** - INCORECT (aceasta este asamblare DEMONTABILĂ)
+
+**Referință în curs: OMTMI - Curs 02 - Rev.01.pptx**
+> "Asamblările folosite în instalații se clasifică în asamblări nedemontabile (îmbinări) și asamblări demontabile."
+> "Asamblările nedemontabile includ: nituirea, sudarea, lipirea, încleierea."
+
+---
+
+## 4. Care dintre următoarele sunt caracteristici ale nitului?
+
+**Răspunsuri corecte: a), c), d)**
+
+- ✅ **a) Are o formă cilindrică** - Corect
+- ❌ **b) Are două capete de diametru identic** - INCORECT (un capăt are diametru mai mare)
+- ✅ **c) La unul din capete are un diametru mai mare decât corpul** - Corect, aceasta este capul nitului
+- ✅ **d) Se deformează plastic la cel de-al doilea capăt** - Corect, astfel se formează al doilea cap
+- ❌ **e) Este utilizat la realizarea îmbinărilor demontabile** - INCORECT (nituirea este NEDEMONTABILĂ)
+
+**Referință în curs: OMTMI - Curs 02 - Rev.01.pptx**
+> "Nitul are inițial o formă cilindrică, la unul din capete un cap, iar cel de-al doilea cap se obține prin deformare plastică folosind diverse procedee."
+
+---
+
+## 5. Care sunt avantajele oferite de procesul de sertizare?
+
+**Răspunsuri corecte: a), c), d), e)**
+
+- ✅ **a) Realizarea unei conexiuni permanente și etanșe** - Corect
+- ❌ **b) Posibilitatea utilizării fără echipament specializat** - INCORECT (necesită clește/presă de sertizare)
+- ✅ **c) Legături sigure și fiabile prin utilizarea unei presiuni controlate** - Corect
+- ✅ **d) Prevenirea îmbătrânirii termice a materialelor de etanșare** - Corect (nu se folosește căldură)
+- ✅ **e) Este un proces rapid și eficient pentru racorduri** - Corect
+
+**Referință în curs: OMTMI - Curs 02 - Rev.01.pptx**
+> "Sertizarea oferă avantaje precum: conexiuni permanente și etanșe, legături sigure prin presiune controlată, proces rapid și eficient, nu implică încălzire deci previne îmbătrânirea termică."
+
+---
+
+## 6. Ce face ca conductele din cupru să fie ușor de instalat?
+
+**Răspunsuri corecte: a), b), c)**
+
+- ✅ **a) Flexibilitatea și maleabilitatea lor** - Corect
+- ✅ **b) Greutatea lor redusă** - Corect (în comparație cu oțelul)
+- ✅ **c) Capacitatea de a fi modelate în zone dificile** - Corect
+- ❌ **d) Rezistența la deformare mecanică** - INCORECT (aceasta NU facilitează instalarea, ci o îngreunează)
+
+**Referință în curs: OMTMI - Curs 03 - Rev.01.pptx**
+> "Cuprul este un material ușor de prelucrat datorită flexibilității și maleabilității sale. Conductele din cupru pot fi modelate pentru a se adapta în spații înguste sau zone dificile."
+> "Greutate redusă: Comparativ cu oțelul, cuprul este mai ușor, facilitând transportul și montajul."
+
+---
+
+## 7. Care este principalul gaz cu efect de seră implicat în amprenta de carbon a conductelor de cupru?
+
+**Răspuns corect: a)**
+
+- ✅ **a) Dioxidul de carbon (CO₂)** - Corect, este principalul gaz GES din procesul de producție
+- ❌ **b) Metanul (CH₄)** - INCORECT (nu este principal în producția cuprului)
+- ❌ **c) Oxidul de azot (N₂O)** - INCORECT
+- ❌ **d) Vaporii de apă** - INCORECT (nu sunt considerați poluanți industriali principali)
+
+**Referință în curs: OMTMI - Curs 03 - Rev.01.pptx**
+> "Amprenta de carbon a conductelor de cupru este influențată în principal de emisiile de **dioxid de carbon (CO₂)** generate în procesul de extracție și prelucrare a minereului."
+
+---
+
+## 8. Pentru ce aplicații este utilizată polietilena de înaltă densitate (PEHD)?
+
+**Răspunsuri corecte: a), b)**
+
+- ✅ **a) Transportul apei potabile** - Corect
+- ✅ **b) Transportul gazelor naturale** - Corect
+- ❌ **c) Construcția de sisteme de aer comprimat** - INCORECT (nu este aplicație tipică PEHD)
+- ❌ **d) Conducte de temperatură foarte ridicată** - INCORECT (PEHD nu rezistă la temperaturi foarte ridicate)
+
+**Referință în curs: OMTMI - Curs 03 - Rev.01.pptx**
+> "Polietilena de înaltă densitate (PEHD) este utilizată pentru: **transportul apei potabile**, **transportul gazelor naturale**, sisteme de irigații, canalizare."
+> "PEHD nu este recomandat pentru temperaturi foarte ridicate datorită limitărilor termice ale materialului plastic."
+
+---
+
+## 9. Cum diferă recipientele față de rezervoare în ceea ce privește condițiile de operare?
+
+**Răspuns corect: b)**
+
+- ❌ **a) Recipientele sunt utilizate doar la temperatură ambientală** - INCORECT (pot fi utilizate la diverse temperaturi)
+- ✅ **b) Recipientele sunt utilizate pentru stocarea fluidelor la presiuni și temperaturi diferite** - Corect
+- ❌ **c) Rezervoarele sunt mai etanșe decât recipientele** - INCORECT (ambele pot fi etanșe)
+- ❌ **d) Recipientele nu pot stoca fluide la presiune ridicată** - INCORECT (recipientele sub presiune sunt special concepute pentru acest scop)
+
+**Referință în curs: OMTMI - Curs 04 - Rev.01.pptx**
+> "Recipientele sunt utilizate pentru **stocarea fluidelor la presiuni și temperaturi diferite**, spre deosebire de rezervoare care funcționează de obicei la presiune atmosferică."
+
+---
+
+## 10. Care sunt avantajele rezervoarelor fabricate prin turnare rotativă?
+
+**Răspunsuri corecte: a), b)**
+
+- ✅ **a) Rezistență mare datorită lipsei îmbinărilor sau sudurilor** - Corect
+- ✅ **b) Pereți uniformi și durabili** - Corect
+- ❌ **c) Conductivitate termică excelentă pentru încălzirea fluidelor stocate** - INCORECT (plasticul are conductivitate termică scăzută)
+- ❌ **d) Pereții devin fragili după fabricație, necesitând protecție suplimentară** - INCORECT (este un dezavantaj, nu un avantaj)
+
+**Referință în curs: OMTMI - Curs 04 - Rev.01.pptx**
+> "Avantajele turnării rotative: **rezistență mare datorită lipsei îmbinărilor sau sudurilor**, **pereți uniformi și durabili**, forme complexe posibile, costuri reduse pentru producții mici."
+
+---
+
+## 11. Ce afirmații sunt potrivite pentru robineții cu obturator sferic?
+
+**Răspunsuri corecte: a), d)**
+
+- ✅ **a) Oprire rapidă în instalații sanitare și de încălzire** - Corect
+- ❌ **b) Reglaj fin al debitului de apă** - INCORECT (robineții cu bilă sunt pentru oprire/deschidere, nu pentru reglaj fin)
+- ❌ **c) Aplicații industriale de înaltă precizie** - INCORECT (pentru precizie se folosesc alte tipuri de robinete)
+- ✅ **d) Utilizare în sisteme de aer comprimat** - Corect
+
+**Referință în curs: OMTMI - Curs 06 - Rev.01.pptx**
+> "Robineții cu bilă (obturator sferic) sunt utilizați pentru **oprire rapidă** în instalații sanitare, de încălzire și **sisteme de aer comprimat**. Nu sunt recomandați pentru reglaj fin al debitului."
+
+---
+
+## 12. Care sunt caracteristicile principale ale vanei cu glob?
+
+**Răspunsuri corecte: a), b), d)**
+
+- ✅ **a) Forma globulară a construcției interne** - Corect
+- ✅ **b) Capacitatea de a modula precis debitul fluidelor** - Corect
+- ❌ **c) Aplicabilitate exclusivă pentru lichide agresive** - INCORECT (nu este exclusivă pentru lichide agresive)
+- ✅ **d) Crearea unei căderi de presiune controlate** - Corect
+
+**Referință în curs: OMTMI - Curs 06 - Rev.01.pptx**
+> "Vana cu glob: **formă globulară a construcției interne**, permite **modularea precisă a debitului** și **creează o cădere de presiune controlată**. Se folosește în aplicații diverse, nu doar pentru lichide agresive."
+
+---
+
+## 13. Care dintre următoarele este un avantaj al utilizării regulatoarelor de presiune?
+
+**Răspuns corect: b)**
+
+- ❌ **a) Creșterea presiunii maxime în instalații** - INCORECT (regulatoarele REDUC/MENȚIN presiunea, nu o cresc)
+- ✅ **b) Prevenirea avariilor cauzate de suprapresiune** - Corect
+- ❌ **c) Creșterea debitului maxim al fluidului** - INCORECT
+- ❌ **d) Creșterea temperaturii fluidului** - INCORECT
+
+**Referință în curs: OMTMI - Curs 07 - Rev.01.pptx**
+> "Regulatoarele de presiune **mențin presiunea unui fluid la o valoare constantă** și **previn avariile cauzate de suprapresiune**."
+
+---
+
+## 14. Unde se utilizează regulatoarele de presiune pentru gaze?
+
+**Răspuns corect: b)**
+
+- ❌ **a) În rețelele de apă potabilă** - INCORECT (sunt pentru apă, nu pentru gaze)
+- ✅ **b) În instalații de gaz natural și rețele de aer comprimat** - Corect
+- ❌ **c) În conductele de abur** - INCORECT (aburul necesită regulatoare speciale)
+- ❌ **d) În sistemele de răcire industrială** - INCORECT
+
+**Referință în curs: OMTMI - Curs 07 - Rev.01.pptx**
+> "Regulatoarele de presiune pentru gaze se utilizează în **instalații de gaz natural** și **rețele de aer comprimat** pentru a menține presiunea la valori sigure."
+
+---
+
+## 15. Care este funcția principală a supapelor de siguranță?
+
+**Răspuns corect: c)**
+
+- ❌ **a) Reglarea fluxului de fluid într-un sistem** - INCORECT (aceasta este funcția robinetelor de reglaj)
+- ❌ **b) Creșterea presiunii pentru o performanță mai bună** - INCORECT
+- ✅ **c) Eliberarea presiunii excesive pentru prevenirea avariilor** - Corect
+- ❌ **d) Închiderea completă a sistemului la atingerea unei presiuni maxime** - INCORECT (supapa eliberează presiunea, nu închide sistemul)
+
+**Referință în curs: OMTMI - Curs 07 - Rev.01.pptx**
+> "Supapele de siguranță au funcția principală de a **elibera presiunea excesivă** din sistem pentru a **preveni avariile** sau exploziile."
+
+---
+
+## 16. Cum funcționează o supapă de siguranță cu arc?
+
+**Răspuns corect: c)**
+
+- ❌ **a) Se deschide atunci când o greutate depășește presiunea fluidului** - INCORECT (aceasta este supapa cu greutate)
+- ❌ **b) Utilizează un regulator extern pentru control** - INCORECT
+- ✅ **c) Presiunea fluidului împinge un piston împotriva unui arc calibrat, care se comprimă când presiunea depășește un prag** - Corect
+- ❌ **d) Se deschide automat la scăderea presiunii** - INCORECT (se deschide la CREȘTEREA presiunii)
+
+**Referință în curs: OMTMI - Curs 07 - Rev.01.pptx**
+> "Supapa de siguranță cu arc: **presiunea fluidului împinge un piston împotriva unui arc calibrat**. Când **presiunea depășește pragul setat**, arcul se comprimă și supapa se deschide pentru a elibera excesul de presiune."
+
+---
+
+## 17. Care sunt avantajele utilizării găuririi mecanizate?
+
+**Răspunsuri corecte: a), c), d)**
+
+- ✅ **a) Găurirea se realizează cu efort minim și eficiență ridicată** - Corect
+- ❌ **b) Permite realizarea de găuri de dimensiuni mari, dar cu precizie redusă** - INCORECT (găurirea mecanizată oferă precizie ridicată)
+- ✅ **c) Se poate realiza în diverse medii de construcție, inclusiv în spații înguste** - Corect
+- ✅ **d) Asigură o performanță constantă în condiții dificile de lucru și în medii cu pericol de explozie** - Corect
+
+**Referință în curs: OMTMI - Curs 12 - Rev.01.pptx**
+> "Avantajele găuririi mecanizate: **efort minim și eficiență ridicată**, **adaptabilitate la diverse medii inclusiv spații înguste**, **performanță constantă în condiții dificile** și medii cu pericol de explozie."
+
+---
+
+## 18. Care dintre următoarele roluri sunt îndeplinite de sondele și lărgitoarele în forajul orizontal dirijat?
+
+**Răspunsuri corecte: a), b), d), e)**
+
+- ✅ **a) Realizează forajul inițial** - Corect (sondele)
+- ✅ **b) Lărgesc tunelul realizat în timpul forajului** - Corect (lărgitoarele)
+- ❌ **c) Asigură stabilitatea solului în timpul forajului** - INCORECT (aceasta este funcția fluidului de foraj/bentonitei)
+- ✅ **d) Ghidează direcția forajului** - Corect (sondele dirijabile)
+- ✅ **e) Permite circulația fluidului de foraj** - Corect
+
+**Referință în curs: OMTMI - Curs 12 - Rev.01.pptx**
+> "Sondele și lărgitoarele în forajul orizontal dirijat: sondele **realizează forajul inițial** și **ghidează direcția**, lărgitoarele **lărgesc tunelul**, iar canalele din acestea **permit circulația fluidului de foraj**."
+
+---
+
+## Rezumat Răspunsuri Corecte - Subiectul 8
+
+| Întrebare | Răspunsuri corecte |
+|-----------|-------------------|
+| 1 | a), c), d) |
+| 2 | b) |
+| 3 | a), b), c), d) |
+| 4 | a), c), d) |
+| 5 | a), c), d), e) |
+| 6 | a), b), c) |
+| 7 | a) |
+| 8 | a), b) |
+| 9 | b) |
+| 10 | a), b) |
+| 11 | a), d) |
+| 12 | a), b), d) |
+| 13 | b) |
+| 14 | b) |
+| 15 | c) |
+| 16 | c) |
+| 17 | a), c), d) |
+| 18 | a), b), d), e) |
+
+**Toate răspunsurile au fost verificate în cursurile OMTMI Rev.01 din repository.**
