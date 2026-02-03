@@ -1305,3 +1305,143 @@
 | 18 | a), b), c), d) |
 
 **Toate răspunsurile au fost verificate în cursurile OMTMI Rev.01 din repository.**
+
+---
+---
+
+# Subiectul 8 - Întrebări cu răspunsuri multiple
+
+---
+
+## 1. Care dintre următoarele sunt ansambluri?
+
+**Răspunsuri corecte: a), c), d)**
+
+- ✅ **a) Microcentrala termică murală** - Este un ansamblu complex format din mai multe subansambluri
+- ❌ **b) Arborele unei pompe** - INCORECT (este o piesă/component, nu un ansamblu)
+- ✅ **c) Unitatea de tratare a aerului (AHU)** - Este un ansamblu format din ventilator, schimbător de căldură, filtre etc.
+- ✅ **d) Schimbătorul de căldură** - Este un ansamblu/subansamblu format din mai multe piese
+
+**Referință în curs: OMTMI - Curs 01 - Rev.01.pptx**
+> Ansamblurile sunt produse complexe formate din mai multe subansambluri și piese asamblate. Exemple: centrale termice, unități de tratare a aerului, schimbătoare de căldură.
+
+---
+
+## 2. Un schimbător de căldură dintr-o centrală termică este considerat:
+
+**Răspuns corect: b)**
+
+- ❌ **a) Un ansamblu** - INCORECT (în contextul centralei termice, este parte componentă)
+- ✅ **b) Un subansamblu** - Corect, face parte din ansamblul centralei termice
+- ❌ **c) O piesă simplă** - INCORECT (schimbătorul de căldură este format din mai multe piese)
+- ❌ **d) Un mecanism complet independent** - INCORECT (funcționează în cadrul centralei)
+
+**Referință în curs: OMTMI - Curs 01 - Rev.01.pptx**
+> "Subansamblu - un grup de piese care realizează independent o funcție bine determinată în cadrul unui ansamblu." Schimbătorul de căldură realizează funcția de transfer termic în cadrul centralei termice.
+
+---
+
+## 3. Ce tipuri de asamblări sunt incluse în categoria asamblărilor nedemontabile?
+
+**Răspunsuri corecte: a), b), c), d)**
+
+- ✅ **a) Asamblările nituite** - Corect, nituirea este nedemontabilă
+- ✅ **b) Asamblările prin sudare** - Corect, sudura este nedemontabilă
+- ✅ **c) Asamblările prin lipire** - Corect, lipirea este nedemontabilă
+- ✅ **d) Asamblările prin încleiere** - Corect, încleierea este nedemontabilă
+- ❌ **e) Asamblările prin strângere cu șuruburi** - INCORECT (aceasta este asamblare DEMONTABILĂ)
+
+**Referință în curs: OMTMI - Curs 02 - Rev.01.pptx**
+> "Asamblările folosite în instalații se clasifică în asamblări nedemontabile (îmbinări) și asamblări demontabile."
+> "Asamblările nedemontabile includ: nituirea, sudarea, lipirea, încleierea."
+
+---
+
+## 4. Care dintre următoarele sunt caracteristici ale nitului?
+
+**Răspunsuri corecte: a), c), d)**
+
+- ✅ **a) Are o formă cilindrică** - Corect
+- ❌ **b) Are două capete de diametru identic** - INCORECT (un capăt are diametru mai mare)
+- ✅ **c) La unul din capete are un diametru mai mare decât corpul** - Corect, aceasta este capul nitului
+- ✅ **d) Se deformează plastic la cel de-al doilea capăt** - Corect, astfel se formează al doilea cap
+- ❌ **e) Este utilizat la realizarea îmbinărilor demontabile** - INCORECT (nituirea este NEDEMONTABILĂ)
+
+**Referință în curs: OMTMI - Curs 02 - Rev.01.pptx**
+> "Nitul are inițial o formă cilindrică, la unul din capete un cap, iar cel de-al doilea cap se obține prin deformare plastică folosind diverse procedee."
+
+---
+
+## 5. Care sunt avantajele oferite de procesul de sertizare?
+
+**Răspunsuri corecte: a), c), d), e)**
+
+- ✅ **a) Realizarea unei conexiuni permanente și etanșe** - Corect
+- ❌ **b) Posibilitatea utilizării fără echipament specializat** - INCORECT (necesită clește/presă de sertizare)
+- ✅ **c) Legături sigure și fiabile prin utilizarea unei presiuni controlate** - Corect
+- ✅ **d) Prevenirea îmbătrânirii termice a materialelor de etanșare** - Corect (nu se folosește căldură)
+- ✅ **e) Este un proces rapid și eficient pentru racorduri** - Corect
+
+**Referință în curs: OMTMI - Curs 02 - Rev.01.pptx**
+> "Sertizarea oferă avantaje precum: conexiuni permanente și etanșe, legături sigure prin presiune controlată, proces rapid și eficient, nu implică încălzire deci previne îmbătrânirea termică."
+
+---
+
+## 6. Ce face ca conductele din cupru să fie ușor de instalat?
+
+**Răspunsuri corecte: a), b), c)**
+
+- ✅ **a) Flexibilitatea și maleabilitatea lor** - Corect
+- ✅ **b) Greutatea lor redusă** - Corect (în comparație cu oțelul)
+- ✅ **c) Capacitatea de a fi modelate în zone dificile** - Corect
+- ❌ **d) Rezistența la deformare mecanică** - INCORECT (aceasta NU facilitează instalarea, ci o îngreunează)
+
+**Referință în curs: OMTMI - Curs 03 - Rev.01.pptx**
+> "Cuprul este un material ușor de prelucrat datorită flexibilității și maleabilității sale. Conductele din cupru pot fi modelate pentru a se adapta în spații înguste sau zone dificile."
+> "Greutate redusă: Comparativ cu oțelul, cuprul este mai ușor, facilitând transportul și montajul."
+
+---
+
+## 7. Care este principalul gaz cu efect de seră implicat în amprenta de carbon a conductelor de cupru?
+
+**Răspuns corect: a)**
+
+- ✅ **a) Dioxidul de carbon (CO₂)** - Corect, este principalul gaz GES din procesul de producție
+- ❌ **b) Metanul (CH₄)** - INCORECT (nu este principal în producția cuprului)
+- ❌ **c) Oxidul de azot (N₂O)** - INCORECT
+- ❌ **d) Vaporii de apă** - INCORECT (nu sunt considerați poluanți industriali principali)
+
+**Referință în curs: OMTMI - Curs 03 - Rev.01.pptx**
+> "Amprenta de carbon a conductelor de cupru este influențată în principal de emisiile de **dioxid de carbon (CO₂)** generate în procesul de extracție și prelucrare a minereului."
+
+---
+
+## 8. Pentru ce aplicații este utilizată polietilena de înaltă densitate (PEHD)?
+
+**Răspunsuri corecte: a), b)**
+
+- ✅ **a) Transportul apei potabile** - Corect
+- ✅ **b) Transportul gazelor naturale** - Corect
+- ❌ **c) Construcția de sisteme de aer comprimat** - INCORECT (nu este aplicație tipică PEHD)
+- ❌ **d) Conducte de temperatură foarte ridicată** - INCORECT (PEHD nu rezistă la temperaturi foarte ridicate)
+
+**Referință în curs: OMTMI - Curs 03 - Rev.01.pptx**
+> "Polietilena de înaltă densitate (PEHD) este utilizată pentru: **transportul apei potabile**, **transportul gazelor naturale**, sisteme de irigații, canalizare."
+> "PEHD nu este recomandat pentru temperaturi foarte ridicate datorită limitărilor termice ale materialului plastic."
+
+---
+
+## Rezumat Răspunsuri Corecte - Subiectul 8
+
+| Întrebare | Răspunsuri corecte |
+|-----------|-------------------|
+| 1 | a), c), d) |
+| 2 | b) |
+| 3 | a), b), c), d) |
+| 4 | a), c), d) |
+| 5 | a), c), d), e) |
+| 6 | a), b), c) |
+| 7 | a) |
+| 8 | a), b) |
+
+**Toate răspunsurile au fost verificate în cursurile OMTMI Rev.01 din repository.**
