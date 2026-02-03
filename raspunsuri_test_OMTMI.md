@@ -1431,6 +1431,147 @@
 
 ---
 
+## 9. Cum diferă recipientele față de rezervoare în ceea ce privește condițiile de operare?
+
+**Răspuns corect: b)**
+
+- ❌ **a) Recipientele sunt utilizate doar la temperatură ambientală** - INCORECT (pot fi utilizate la diverse temperaturi)
+- ✅ **b) Recipientele sunt utilizate pentru stocarea fluidelor la presiuni și temperaturi diferite** - Corect
+- ❌ **c) Rezervoarele sunt mai etanșe decât recipientele** - INCORECT (ambele pot fi etanșe)
+- ❌ **d) Recipientele nu pot stoca fluide la presiune ridicată** - INCORECT (recipientele sub presiune sunt special concepute pentru acest scop)
+
+**Referință în curs: OMTMI - Curs 04 - Rev.01.pptx**
+> "Recipientele sunt utilizate pentru **stocarea fluidelor la presiuni și temperaturi diferite**, spre deosebire de rezervoare care funcționează de obicei la presiune atmosferică."
+
+---
+
+## 10. Care sunt avantajele rezervoarelor fabricate prin turnare rotativă?
+
+**Răspunsuri corecte: a), b)**
+
+- ✅ **a) Rezistență mare datorită lipsei îmbinărilor sau sudurilor** - Corect
+- ✅ **b) Pereți uniformi și durabili** - Corect
+- ❌ **c) Conductivitate termică excelentă pentru încălzirea fluidelor stocate** - INCORECT (plasticul are conductivitate termică scăzută)
+- ❌ **d) Pereții devin fragili după fabricație, necesitând protecție suplimentară** - INCORECT (este un dezavantaj, nu un avantaj)
+
+**Referință în curs: OMTMI - Curs 04 - Rev.01.pptx**
+> "Avantajele turnării rotative: **rezistență mare datorită lipsei îmbinărilor sau sudurilor**, **pereți uniformi și durabili**, forme complexe posibile, costuri reduse pentru producții mici."
+
+---
+
+## 11. Ce afirmații sunt potrivite pentru robineții cu obturator sferic?
+
+**Răspunsuri corecte: a), d)**
+
+- ✅ **a) Oprire rapidă în instalații sanitare și de încălzire** - Corect
+- ❌ **b) Reglaj fin al debitului de apă** - INCORECT (robineții cu bilă sunt pentru oprire/deschidere, nu pentru reglaj fin)
+- ❌ **c) Aplicații industriale de înaltă precizie** - INCORECT (pentru precizie se folosesc alte tipuri de robinete)
+- ✅ **d) Utilizare în sisteme de aer comprimat** - Corect
+
+**Referință în curs: OMTMI - Curs 06 - Rev.01.pptx**
+> "Robineții cu bilă (obturator sferic) sunt utilizați pentru **oprire rapidă** în instalații sanitare, de încălzire și **sisteme de aer comprimat**. Nu sunt recomandați pentru reglaj fin al debitului."
+
+---
+
+## 12. Care sunt caracteristicile principale ale vanei cu glob?
+
+**Răspunsuri corecte: a), b), d)**
+
+- ✅ **a) Forma globulară a construcției interne** - Corect
+- ✅ **b) Capacitatea de a modula precis debitul fluidelor** - Corect
+- ❌ **c) Aplicabilitate exclusivă pentru lichide agresive** - INCORECT (nu este exclusivă pentru lichide agresive)
+- ✅ **d) Crearea unei căderi de presiune controlate** - Corect
+
+**Referință în curs: OMTMI - Curs 06 - Rev.01.pptx**
+> "Vana cu glob: **formă globulară a construcției interne**, permite **modularea precisă a debitului** și **creează o cădere de presiune controlată**. Se folosește în aplicații diverse, nu doar pentru lichide agresive."
+
+---
+
+## 13. Care dintre următoarele este un avantaj al utilizării regulatoarelor de presiune?
+
+**Răspuns corect: b)**
+
+- ❌ **a) Creșterea presiunii maxime în instalații** - INCORECT (regulatoarele REDUC/MENȚIN presiunea, nu o cresc)
+- ✅ **b) Prevenirea avariilor cauzate de suprapresiune** - Corect
+- ❌ **c) Creșterea debitului maxim al fluidului** - INCORECT
+- ❌ **d) Creșterea temperaturii fluidului** - INCORECT
+
+**Referință în curs: OMTMI - Curs 07 - Rev.01.pptx**
+> "Regulatoarele de presiune **mențin presiunea unui fluid la o valoare constantă** și **previn avariile cauzate de suprapresiune**."
+
+---
+
+## 14. Unde se utilizează regulatoarele de presiune pentru gaze?
+
+**Răspuns corect: b)**
+
+- ❌ **a) În rețelele de apă potabilă** - INCORECT (sunt pentru apă, nu pentru gaze)
+- ✅ **b) În instalații de gaz natural și rețele de aer comprimat** - Corect
+- ❌ **c) În conductele de abur** - INCORECT (aburul necesită regulatoare speciale)
+- ❌ **d) În sistemele de răcire industrială** - INCORECT
+
+**Referință în curs: OMTMI - Curs 07 - Rev.01.pptx**
+> "Regulatoarele de presiune pentru gaze se utilizează în **instalații de gaz natural** și **rețele de aer comprimat** pentru a menține presiunea la valori sigure."
+
+---
+
+## 15. Care este funcția principală a supapelor de siguranță?
+
+**Răspuns corect: c)**
+
+- ❌ **a) Reglarea fluxului de fluid într-un sistem** - INCORECT (aceasta este funcția robinetelor de reglaj)
+- ❌ **b) Creșterea presiunii pentru o performanță mai bună** - INCORECT
+- ✅ **c) Eliberarea presiunii excesive pentru prevenirea avariilor** - Corect
+- ❌ **d) Închiderea completă a sistemului la atingerea unei presiuni maxime** - INCORECT (supapa eliberează presiunea, nu închide sistemul)
+
+**Referință în curs: OMTMI - Curs 07 - Rev.01.pptx**
+> "Supapele de siguranță au funcția principală de a **elibera presiunea excesivă** din sistem pentru a **preveni avariile** sau exploziile."
+
+---
+
+## 16. Cum funcționează o supapă de siguranță cu arc?
+
+**Răspuns corect: c)**
+
+- ❌ **a) Se deschide atunci când o greutate depășește presiunea fluidului** - INCORECT (aceasta este supapa cu greutate)
+- ❌ **b) Utilizează un regulator extern pentru control** - INCORECT
+- ✅ **c) Presiunea fluidului împinge un piston împotriva unui arc calibrat, care se comprimă când presiunea depășește un prag** - Corect
+- ❌ **d) Se deschide automat la scăderea presiunii** - INCORECT (se deschide la CREȘTEREA presiunii)
+
+**Referință în curs: OMTMI - Curs 07 - Rev.01.pptx**
+> "Supapa de siguranță cu arc: **presiunea fluidului împinge un piston împotriva unui arc calibrat**. Când **presiunea depășește pragul setat**, arcul se comprimă și supapa se deschide pentru a elibera excesul de presiune."
+
+---
+
+## 17. Care sunt avantajele utilizării găuririi mecanizate?
+
+**Răspunsuri corecte: a), c), d)**
+
+- ✅ **a) Găurirea se realizează cu efort minim și eficiență ridicată** - Corect
+- ❌ **b) Permite realizarea de găuri de dimensiuni mari, dar cu precizie redusă** - INCORECT (găurirea mecanizată oferă precizie ridicată)
+- ✅ **c) Se poate realiza în diverse medii de construcție, inclusiv în spații înguste** - Corect
+- ✅ **d) Asigură o performanță constantă în condiții dificile de lucru și în medii cu pericol de explozie** - Corect
+
+**Referință în curs: OMTMI - Curs 12 - Rev.01.pptx**
+> "Avantajele găuririi mecanizate: **efort minim și eficiență ridicată**, **adaptabilitate la diverse medii inclusiv spații înguste**, **performanță constantă în condiții dificile** și medii cu pericol de explozie."
+
+---
+
+## 18. Care dintre următoarele roluri sunt îndeplinite de sondele și lărgitoarele în forajul orizontal dirijat?
+
+**Răspunsuri corecte: a), b), d), e)**
+
+- ✅ **a) Realizează forajul inițial** - Corect (sondele)
+- ✅ **b) Lărgesc tunelul realizat în timpul forajului** - Corect (lărgitoarele)
+- ❌ **c) Asigură stabilitatea solului în timpul forajului** - INCORECT (aceasta este funcția fluidului de foraj/bentonitei)
+- ✅ **d) Ghidează direcția forajului** - Corect (sondele dirijabile)
+- ✅ **e) Permite circulația fluidului de foraj** - Corect
+
+**Referință în curs: OMTMI - Curs 12 - Rev.01.pptx**
+> "Sondele și lărgitoarele în forajul orizontal dirijat: sondele **realizează forajul inițial** și **ghidează direcția**, lărgitoarele **lărgesc tunelul**, iar canalele din acestea **permit circulația fluidului de foraj**."
+
+---
+
 ## Rezumat Răspunsuri Corecte - Subiectul 8
 
 | Întrebare | Răspunsuri corecte |
@@ -1443,5 +1584,15 @@
 | 6 | a), b), c) |
 | 7 | a) |
 | 8 | a), b) |
+| 9 | b) |
+| 10 | a), b) |
+| 11 | a), d) |
+| 12 | a), b), d) |
+| 13 | b) |
+| 14 | b) |
+| 15 | c) |
+| 16 | c) |
+| 17 | a), c), d) |
+| 18 | a), b), d), e) |
 
 **Toate răspunsurile au fost verificate în cursurile OMTMI Rev.01 din repository.**
